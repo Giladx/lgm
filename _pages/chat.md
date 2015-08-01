@@ -19,7 +19,7 @@ c4p_log_redirect_to:
 
 &nbsp;
 
-&nbsp;
+&lt;iframe src="https://kiwiirc.com/client/irc.kiwiirc.com/?nick=gilad|?&amp;theme=cli#lgm" style="border:0; width:100%; height:450px;"&gt;&lt;/iframe&gt;
 
 &nbsp;
 
