@@ -15,11 +15,9 @@ c4p_log_redirect_to:
 ---
 [mbYTPlayer url="https://youtu.be/7AKQzxl1Ick" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
-&nbsp;
+<iframe src="https://kiwiirc.com/client/irc.kiwiirc.com/?nick=gilad|?&theme=cli#lgm" style="border:0; width:100%; height:450px;"></iframe>
 
-&nbsp;
 
-&lt;iframe src="https://kiwiirc.com/client/irc.kiwiirc.com/?nick=gilad|?&amp;theme=cli#lgm" style="border:0; width:100%; height:450px;"&gt;&lt;/iframe&gt;
 
 &nbsp;
 
