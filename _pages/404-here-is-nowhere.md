@@ -1,6 +1,6 @@
 ---
 ID: 82
-post_title: '#404 Here Is Nowhere'
+post_title: '____________________#404 Here Is Nowhere__________________'
 author: admin
 post_date: 2015-08-01 13:18:11
 post_excerpt: ""
@@ -11,36 +11,4 @@ published: true
 c4p_log_redirect_to:
   - ""
 ---
-[mbYTPlayer url="https://youtu.be/jE5szHxOtlQ" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 You got to a dead end
