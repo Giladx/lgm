@@ -31,14 +31,6 @@ c4p_log_redirect_to:
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 #
 
 [knochennet_webchat channel="#LGM"]
