@@ -11,4 +11,6 @@ published: true
 c4p_log_redirect_to:
   - ""
 ---
+[mbYTPlayer url="https://youtu.be/jE5szHxOtlQ" opacity="1" quality="hd720" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
+
 You got to a dead end
