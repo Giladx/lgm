@@ -22,3 +22,8 @@ Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -
 <a href="https://hcgilje.wordpress.com/vpt/">VPT</a>
 
 <a href="https://www.blender.org/" target="_blank">blender</a>
+
+<a href="http://www.pawfal.org/fluxus/" target="_blank">Fluxus</a>
+
+<a href="http://recmadrid.com/2012/vjplayer/" target="_blank">Musicame VJ REC edition</a>
+
