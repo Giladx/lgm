@@ -1,12 +1,12 @@
 ---
 ID: 82
-post_title: '______________________________#404 Here Is Nowhere____________________________'
+post_title: '#404 Here Is Nowhere____________________________'
 author: admin
 post_date: 2015-08-01 13:18:11
 post_excerpt: ""
 layout: page
 permalink: >
-  http://loveguerrillamarketing.com/?page_id=82
+  http://loveguerrillamarketing.com/404-here-is-nowhere
 published: true
 c4p_log_redirect_to:
   - ""
