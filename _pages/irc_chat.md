@@ -34,7 +34,7 @@ c4p_log_redirect_to:
 
 
 
-
+<iframe src="https://kiwiirc.com/client/irc.kiwiirc.com/?nick=guest|?&theme=cli#Love!" style="border:1; width:100%; height:300px;"></iframe>
 
 
 
