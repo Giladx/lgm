@@ -10,14 +10,30 @@ permalink: >
 published: true
 c4p_log_redirect_to:
   - ""
+vidbg_enabled:
+  - 'false'
+vidbg_autoplay:
+  - 'false'
+vidbg_loop:
+  - 'false'
+vidbg_muted:
+  - 'false'
+vidbg_vid_url_mp4:
+  - ""
+vidbg_vid_url_webm:
+  - ""
+vidbg_img_url:
+  - ""
+vidbg_custom_overlay_html:
+  - ""
 ---
-Here are some links & tool for vj's
+Here are some links &amp; tool for vj's
 
 <a href="http://www.openframeworks.cc/" target="_blank">openFrameworks</a>
 
 <a href="https://flxer.net/software/downloads/" target="_blank">FLxER</a>
 
-Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -https://github.com/Onyx-VJ-
+Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -<a href="https://github.com/Onyx-VJ" target="_blank">Download</a>-
 
 <a href="https://hcgilje.wordpress.com/vpt/">VPT</a>
 
@@ -26,4 +42,3 @@ Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -
 <a href="http://www.pawfal.org/fluxus/" target="_blank">Fluxus</a>
 
 <a href="http://recmadrid.com/2012/vjplayer/" target="_blank">Musicame VJ REC edition</a>
-
