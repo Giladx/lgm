@@ -11,3 +11,10 @@ published: true
 c4p_log_redirect_to:
   - ""
 ---
+Here are some links & tool for vj's
+
+<a href="http://www.openframeworks.cc/" target="_blank">openFrameworks</a>
+
+<a href="https://flxer.net/software/downloads/" target="_blank">FLxER</a>
+
+Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -https://github.com/Onyx-VJ-
