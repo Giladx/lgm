@@ -26,4 +26,4 @@ vidbg_img_url:
 vidbg_custom_overlay_html:
   - ""
 ---
-[kento_3dmv width="500" height="400" source="<a href="http://loveguerrillamarketing.com/obj/love3.obj">http://example.com/models/sample-model.obj</a>" ]
+[kento_3dmv width="500" height="400" source="http://loveguerrillamarketing.com/obj/love3.obj" ]
