@@ -42,3 +42,9 @@ Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -
 <a href="http://www.pawfal.org/fluxus/" target="_blank">Fluxus</a>
 
 <a href="http://recmadrid.com/2012/vjplayer/" target="_blank">Musicame VJ REC edition</a>
+
+<a href="https://processing.org/" target="_blank">Processing</a>
+
+<a href="https://puredata.info/" target="_blank">Pure Data</a>
+
+<a href="https://www.dyne.org/software/freej/" target="_blank">Freej</a>
