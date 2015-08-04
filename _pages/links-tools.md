@@ -6,7 +6,7 @@ post_date: 2015-08-02 10:38:16
 post_excerpt: ""
 layout: page
 permalink: >
-  http://loveguerrillamarketing.com/links-tools
+  http://loveguerrillamarketing.com/links-tools/
 published: true
 c4p_log_redirect_to:
   - ""
@@ -27,6 +27,10 @@ vidbg_img_url:
 vidbg_custom_overlay_html:
   - ""
 ---
+[mbYTPlayer url="https://youtu.be/vUisRuTzJjI" opacity="1" quality="highres" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
+
+&nbsp;
+
 Here are some links &amp; tool for vj's
 
 <a href="http://www.openframeworks.cc/" target="_blank">openFrameworks</a>
