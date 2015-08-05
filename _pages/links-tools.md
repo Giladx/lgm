@@ -61,4 +61,11 @@ Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -
 
 <a href="http://no-carrier.com/index.php?/glitchnes/" target="_blank">glitchNES</a>
 
-&nbsp;
+<a href="http://www.moldeo.org" target="_blank">Moldeo</a>
+
+<a href="http://www.artificialeyes.tv/vip" target="_blank">V.I.P 5.0</a>
+
+<a href="http://whorld.org/" target="_blank">whorld</a>
+
+<a href="http://www.duration.cc/" target="_blank">Duration</a>
+<h1 class="vip-title"></h1>
