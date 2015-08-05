@@ -90,4 +90,5 @@ Here are some links &amp; tool for vj's
 <a href="http://sourceforge.net/projects/webcamstudio/" target="_blank">glmixer</a>
 
 <a href="http://freeframe.sourceforge.net/" target="_blank">FreeFrame</a>
-<a href="url fn" href="https://github.com/YCAMInterlab" target="_blank">YCAMInterlab</a>
+
+<a href="https://github.com/YCAMInterlab" target="_blank">YCAMInterlab</a> - Source Code
