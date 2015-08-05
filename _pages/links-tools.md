@@ -70,3 +70,7 @@ Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -
 <a href="http://www.duration.cc/" target="_blank">Duration</a>
 
 <a href="http://www.iannix.org/" target="_blank">iannix</a>
+
+<a href="http://lives-video.com/" target="_blank">LiVES</a>
+
+<a href="http://natron.inria.fr/">Natron</a>
