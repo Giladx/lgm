@@ -68,4 +68,5 @@ Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -
 <a href="http://whorld.org/" target="_blank">whorld</a>
 
 <a href="http://www.duration.cc/" target="_blank">Duration</a>
-<h1 class="vip-title"></h1>
+
+<a href="http://www.iannix.org/" target="_blank">iannix</a>
