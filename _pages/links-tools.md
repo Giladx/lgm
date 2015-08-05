@@ -33,6 +33,8 @@ vidbg_custom_overlay_html:
 
 Here are some links &amp; tool for vj's
 
+<a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
+
 <a href="http://www.openframeworks.cc/" target="_blank">openFrameworks</a>
 
 <a href="https://flxer.net/software/downloads/" target="_blank">FLxER</a>
@@ -52,3 +54,11 @@ Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -
 <a href="https://puredata.info/" target="_blank">Pure Data</a>
 
 <a href="https://www.dyne.org/software/freej/" target="_blank">Freej</a>
+
+<a href="http://opentzt.sourceforge.net/" target="_blank">openTZT</a>
+
+<a href="http://www.gephex.org" target="_blank">Gephex</a>
+
+<a href="http://no-carrier.com/index.php?/glitchnes/" target="_blank">glitchNES</a>
+
+&nbsp;
