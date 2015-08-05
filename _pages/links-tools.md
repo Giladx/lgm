@@ -76,3 +76,5 @@ Here are some links &amp; tool for vj's
 <a href="http://vvvv.org/" target="_blank">vvvv</a> ---&gt; <a href="http://vvvv.org/contribution/svvvvitcher" target="_blank">Svvvvitcher</a>
 
 <a href="https://vuo.org/" target="_blank">Vuo</a>
+
+<a href="http://www.vsxu.com/" target="_blank">VSXu</a>
