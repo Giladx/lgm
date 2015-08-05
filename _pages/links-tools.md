@@ -74,3 +74,5 @@ Here are some links &amp; tool for vj's
 <a href="http://natron.inria.fr/">Natron</a>
 
 <a href="http://vvvv.org/" target="_blank">vvvv</a> ---&gt; <a href="http://vvvv.org/contribution/svvvvitcher" target="_blank">Svvvvitcher</a>
+
+<a href="https://vuo.org/" target="_blank">Vuo</a>
