@@ -78,3 +78,7 @@ Here are some links &amp; tool for vj's
 <a href="https://vuo.org/" target="_blank">Vuo</a>
 
 <a href="http://www.vsxu.com/" target="_blank">VSXu</a>
+
+<a href="https://github.com/lighttroupe/luz" target="_blank">Luz Studio</a>
+
+&nbsp;
