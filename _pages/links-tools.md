@@ -84,3 +84,7 @@ Here are some links &amp; tool for vj's
 <a href="http://sourceforge.net/projects/webcamstudio/" target="_blank">WebcamStudio</a>
 
 <a href="http://www.solderlab.de/index.php/software/glediator" target="_blank">Glediator</a>
+
+<a href="http://sourceforge.net/projects/qgifer/" target="_blank">QGifer</a>
+
+<a href="http://sourceforge.net/projects/webcamstudio/" target="_blank">glmixer</a>
