@@ -81,4 +81,6 @@ Here are some links &amp; tool for vj's
 
 <a href="https://github.com/lighttroupe/luz" target="_blank">Luz Studio</a>
 
+<a href="http://sourceforge.net/projects/webcamstudio/" target="_blank">WebcamStudio</a>
+
 &nbsp;
