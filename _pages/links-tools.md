@@ -31,7 +31,7 @@ vidbg_custom_overlay_html:
 
 &nbsp;
 
-Here are some links &amp; tool for vj's
+Here are some links for open source tools for video &amp; image processing
 
 <a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
 
