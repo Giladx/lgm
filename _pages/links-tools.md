@@ -207,7 +207,10 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
+&nbsp;
 <div style="text-align: center;"></div>
+&nbsp;
+<div style="text-align: center;">
 <table id="at_preview">
 <tbody>
 <tr>
@@ -215,10 +218,11 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>vvvv - a multipurpose toolkit | vvvv</strong> <span style="display: block; margin-top: 8px;">vvvv is a hybrid visual/textual live-programming environment for easy prototyping and development. It is designed to facilitate the handling of large media environments with physical interfaces, real-time motion graphics, audio and video that can interact with many users simultaneously.</span></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://vvvv.org/">vvvv.org/ </a></td>
+<td colspan="2">Source: <a href="http://vvvv.org/">vvvv.org/ </a></td>
 </tr>
 </tbody>
 </table>
+</div>
 <div style="text-align: center;"></div>
 <table id="at_preview">
 <tbody>
