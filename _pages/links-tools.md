@@ -275,7 +275,8 @@ Here are some links for open source tools for video &amp; image processing
 <tbody>
 <tr>
 <td width="100"><img src="http://www.solderlab.de//images/logo/logo_sl_bloom_4.png" alt="" width="100" data-src="[http://www.solderlab.de//images/logo/logo_sl_bloom_4.png,http://www.solderlab.de//images/logo/banner_sl_v3.jpg,http://www.solderlab.de//images/led-projects/menu_12x8RGBMatrix.jpg,http://www.solderlab.de//images/led-projects/menu_globe.jpg,http://www.solderlab.de//images/led-projects/replicas/menu_Falko.JPG,http://www.solderlab.de//images/led-projects/replicas/menu_Mitruel.png]" /></td>
-<td style="vertical-align: top;"><strong>Home</strong> <span style="display: block; margin-top: 8px;">Solderlab - Electronic DIY Projects. Welcome to our website. We are just two guys with technical interests and a little bit of spare time. Some day we decided to combine the two things and started a few projects mostly dealing with LEDs. We came across the really nice Arduino electronics prototyping platform and its various possibilities. This website shows a collection of our projects we would like to share. Hope you enjoy! If you have questions or comments please leave an entry in our guest</span></td>
+<td style="vertical-align: top;"><strong>Solderlab</strong>
+<span style="display: block; margin-top: 8px;">Solderlab - Electronic DIY Projects. Welcome to our website. We are just two guys with technical interests and a little bit of spare time. Some day we decided to combine the two things and started a few projects mostly dealing with LEDs. We came across the really nice Arduino electronics prototyping platform and its various possibilities. This website shows a collection of our projects we would like to share. Hope you enjoy! If you have questions or comments please leave an entry in our guest</span></td>
 </tr>
 <tr class="preview_footer">
 <td colspan="2">Source: <a href="http://www.solderlab.de/">www.solderlab.de/ </a></td>
