@@ -37,7 +37,9 @@ Here are some links for open source tools for video &amp; image processing
 
 <a href="http://www.openframeworks.cc/" target="_blank">openFrameworks</a>
 
-<a href="https://flxer.net/software/downloads/" target="_blank">FLxER</a>  Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -<a href="https://github.com/Onyx-VJ" target="_blank">Download</a>-
+<a href="https://flxer.net/software/downloads/" target="_blank">FLxER</a>
+
+Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -<a href="https://github.com/Onyx-VJ" target="_blank">Download</a>-
 
 <a href="https://hcgilje.wordpress.com/vpt/">VPT</a>
 
