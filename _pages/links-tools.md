@@ -34,18 +34,9 @@ vidbg_custom_overlay_html:
 Here are some links for open source tools for video &amp; image processing
 
 <a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
-<table id="at_preview">
-<tbody>
-<tr>
-<td width="100"><img src="http://openframeworks.cc/images/of-logo.svg" alt="" width="100" data-src="[http://openframeworks.cc/images/of-logo.svg,http://c1776742.cdn.cloudfiles.rackspacecloud.com/images/information/mediacenter/links/130x33_grey.png]" /></td>
-<td style="vertical-align: top;"><strong>openFrameworks</strong></td>
-</tr>
-<tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.openframeworks.cc/">www.openframeworks.cc/ </a></td>
-</tr>
-</tbody>
-</table>
-<div style="text-align: center;"></div>
+
+<strong>[link-preview url="http://www.openframeworks.cc/"]</strong>
+<div style="text-align: center;">
 <table id="at_preview">
 <tbody>
 <tr>
@@ -53,10 +44,11 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>FLxER - PERFORMING VIDEO NETWORK AND SOFTWARE</strong> <span style="display: block; margin-top: 8px;">Not only an AV mixing, free software but the biggest community platform for video artists, VJs and visual performers which allows you to create your profile, show your performances and manage your footage</span></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://flxer.net/">flxer.net/ </a></td>
+<td colspan="2">Source: <a href="http://flxer.net/">flxer.net/ </a></td>
 </tr>
 </tbody>
 </table>
+</div>
 <div style="text-align: center;"></div>
 <table id="at_preview">
 <tbody>
