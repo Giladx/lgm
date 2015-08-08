@@ -151,15 +151,15 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://c18.statcounter.com/counter.php?sc_project=1909535&amp;java=0&amp;security=08df0095&amp;invisible=1" alt="" width="100" data-src="[http://c18.statcounter.com/counter.php?sc_project=1909535&amp;java=0&amp;security=08df0095&amp;invisible=1,http://www.artificialeyes.tv/vip/files/aeheader.png,http://artificialeyes.tv/files/images/vip_computer.png]" /></td>
-<td style="vertical-align: top;"><strong>V.I.P. VJ Software | artificialeyes.tv</strong></td>
+<td width="100"><img src="http://c18.statcounter.com/counter.php?sc_project=1909535&amp;java=0&amp;security=08df0095&amp;invisible=1" alt="" width="100" data-src="[http://c18.statcounter.com/counter.php?sc_project=1909535&amp;java=0&amp;security=08df0095&amp;invisible=1,http://www.artificialeyes.tv//files/aeheader.png,http://www.artificialeyes.tv//files/Anonfather.jpg,http://www.artificialeyes.tv//files/Anonfather.jpg,http://www.artificialeyes.tv//files/boysfrombrazil-exilesurfer.jpg,http://www.artificialeyes.tv//files/2ly3blj.jpeg]" /></td>
+<td style="vertical-align: top;"><strong>artificialeyes.tv</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.artificialeyes.tv/vip">www.artificialeyes.tv/vip </a></td>
+<td colspan="2">Source: <a href="http://www.artificialeyes.tv/">www.artificialeyes.tv/</a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: center;"></div>
+<div style="text-align: center;">
 <table id="at_preview">
 <tbody>
 <tr>
@@ -167,10 +167,11 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>Whorld - Home</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://whorld.org/">whorld.org/ </a></td>
+<td colspan="2">Source: <a href="http://whorld.org/">whorld.org/ </a></td>
 </tr>
 </tbody>
 </table>
+</div>
 <div style="text-align: center;"></div>
 <table id="at_preview">
 <tbody>
@@ -369,7 +370,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://www.luzstudio.net/_upload/s_20150128122425m48p7g_FascinoscopeClocherUQAMphotoCindyBoyce_Quartierdesspectacles.jpg" alt="" width="100" data-src="[http://www.luzstudio.net/_upload/s_20150128122425m48p7g_FascinoscopeClocherUQAMphotoCindyBoyce_Quartierdesspectacles.jpg,http://www.luzstudio.net/_upload/s_20140404122827i1jycn_AAA_5490.jpg,http://www.luzstudio.net/_upload/s_20140710162750hfezqh_fosterthepeople_0501fea006.JPG,http://www.luzstudio.net/_upload/s_20140527110315ldrp51_GCiampini_IndieAwards_Edited-1825.jpg,http://www.luzstudio.net/_upload/s_20140404125725v1rpsl_DSC_2240.jpg,http://www.luzstudio.net/_upload/s_20141003132440zgscex_DSC_6161.jpg]" /></td>
+<td width="100"><img class="aligncenter" src="http://www.luzstudio.net/_upload/s_20150128122425m48p7g_FascinoscopeClocherUQAMphotoCindyBoyce_Quartierdesspectacles.jpg" alt="" width="68" height="101" data-src="[http://www.luzstudio.net/_upload/s_20150128122425m48p7g_FascinoscopeClocherUQAMphotoCindyBoyce_Quartierdesspectacles.jpg,http://www.luzstudio.net/_upload/s_20140404122827i1jycn_AAA_5490.jpg,http://www.luzstudio.net/_upload/s_20140710162750hfezqh_fosterthepeople_0501fea006.JPG,http://www.luzstudio.net/_upload/s_20140527110315ldrp51_GCiampini_IndieAwards_Edited-1825.jpg,http://www.luzstudio.net/_upload/s_20140404125725v1rpsl_DSC_2240.jpg,http://www.luzstudio.net/_upload/s_20141003132440zgscex_DSC_6161.jpg]" /></td>
 <td style="vertical-align: top;"><strong>Lüz Studio</strong> <span style="display: block; margin-top: 8px;">Lüz Studio est une jeune entreprise montréalaise de conception visuelle : éclairages, scénographie et vidéo. Lüz Studio is an up-and-coming Montreal company specializing in visual design including lighting, set design, and video.</span></td>
 </tr>
 <tr class="preview_footer">
