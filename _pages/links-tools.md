@@ -37,7 +37,21 @@ Here are some links for open source tools for video &amp; image processing
 
 <a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
 
-[link-preview url="http://www.openframeworks.cc/"]
+&nbsp;
+<table id="at_preview">
+<tbody>
+<tr>
+<td width="100"><img src="http://openframeworks.cc/images/of-logo.svg" alt="" width="100" data-src="[http://openframeworks.cc/images/of-logo.svg,http://c1776742.cdn.cloudfiles.rackspacecloud.com/images/information/mediacenter/links/130x33_grey.png]" /></td>
+<td style="vertical-align: top;"><strong>openFrameworks</strong></td>
+</tr>
+<tr class="preview_footer">
+<td colspan="2">Source: <a href="http://www.openframeworks.cc/">www.openframeworks.cc/ </a></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<div style="text-align: center;"></div>
+&nbsp;
 <div style="text-align: center;">
 <table id="at_preview">
 <tbody>
