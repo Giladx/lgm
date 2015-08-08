@@ -26,6 +26,8 @@ vidbg_img_url:
   - ""
 vidbg_custom_overlay_html:
   - ""
+url-httpwww-openframeworks-cc:
+  - http://www.openframeworks.cc/
 ---
 [mbYTPlayer url="https://youtu.be/HPph35tdMP8" opacity="1" quality="highres" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
@@ -35,7 +37,7 @@ Here are some links for open source tools for video &amp; image processing
 
 <a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
 
-<strong>[link-preview url="http://www.openframeworks.cc/"]</strong>
+[link-preview url="http://www.openframeworks.cc/"]
 <div style="text-align: center;">
 <table id="at_preview">
 <tbody>
