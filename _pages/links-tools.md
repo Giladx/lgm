@@ -347,7 +347,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://api.flattr.com/button/flattr-badge-large.png" alt="" width="100" data-src="[http://api.flattr.com/button/flattr-badge-large.png,http://www.gimp.org//donating/bitcoin-button.png,http://www.gimp.org//images/frontsplash28.png,http://www.gimp.org//images/news-icons/release-stable.png,http://www.gimp.org//images/news-icons/wilber-eeek.png,http://www.gimp.org//images/news-icons/wilber-eeek.png]" /></td>
+<td width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/GIMP_Icon.png" alt="" width="100" data-src="[http://api.flattr.com/button/flattr-badge-large.png,http://www.gimp.org//donating/bitcoin-button.png,http://www.gimp.org//images/frontsplash28.png,http://www.gimp.org//images/news-icons/release-stable.png,http://www.gimp.org//images/news-icons/wilber-eeek.png,http://www.gimp.org//images/news-icons/wilber-eeek.png]" /></td>
 <td style="vertical-align: top;"><strong>GIMP - The GNU Image Manipulation Program</strong></td>
 </tr>
 <tr class="preview_footer">
