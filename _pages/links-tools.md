@@ -41,7 +41,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview" style="height: 99px;" width="260">
 <tbody>
 <tr>
-<td width="100"><img src="http://openframeworks.cc/images/of-logo.svg" alt="" width="100" data-src="[http://openframeworks.cc/images/of-logo.svg,http://c1776742.cdn.cloudfiles.rackspacecloud.com/images/information/mediacenter/links/130x33_grey.png]" /></td>
+<td width="100"><img src="http://forum.openframeworks.cc/uploads/default/6323/759ab76ac52e4ff4.png" alt="" width="100" data-src="[http://openframeworks.cc/images/of-logo.svg,http://c1776742.cdn.cloudfiles.rackspacecloud.com/images/information/mediacenter/links/130x33_grey.png]" /></td>
 <td style="vertical-align: top;"><strong>openFrameworks</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -174,8 +174,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-&nbsp;
-<div style="text-align: center;"></div>
 &nbsp;
 <table id="at_preview">
 <tbody>
