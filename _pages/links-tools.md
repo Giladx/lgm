@@ -166,6 +166,20 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
+<td width="100"><img src="http://www.vpaint.org/logo-header.png" alt="" width="100" data-src="[http://www.vpaint.org/logo-header.png,http://www.vpaint.org/cat_small.png,http://www.vpaint.org/windows64x64.png,http://www.vpaint.org/mac64x64.png,http://www.vpaint.org/linux64x64.png,http://www.vpaint.org/sketch.png]" /></td>
+<td style="vertical-align: top;"><strong>VPaint - A glimpse into the future of Vector Graphics and 2D Animation</strong></td>
+</tr>
+<tr class="preview_footer">
+<td colspan="2">Source: <a href="http://www.vpaint.org/">www.vpaint.org/ </a></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<div style="text-align: center;"></div>
+&nbsp;
+<table id="at_preview">
+<tbody>
+<tr>
 <td width="100"><img src="http://natron.inria.fr/wp-content/themes/tempera/images/socials/YouTube.png" alt="" width="100" data-src="[http://natron.inria.fr/wp-content/themes/tempera/images/socials/YouTube.png,http://natron.inria.fr/wp-content/themes/tempera/images/socials/Twitter.png,http://natron.inria.fr/files/2014/12/cropped-badeau2.jpg,https://natron.inria.fr/files/2014/12/natron-v9-01-150x150.png,https://natron.inria.fr/files/2014/12/DOWNLOAD-01.png,https://natron.inria.fr/files/2014/12/DRAW-01.png]" /></td>
 <td style="vertical-align: top;"><strong>Natron | Compositing at hand</strong></td>
 </tr>
@@ -345,6 +359,20 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
+&nbsp;
+<table id="at_preview">
+<tbody>
+<tr>
+<td width="100"><img src="http://whorld.org./images/whorld-icon-32x32.gif" alt="" width="100" data-src="[http://whorld.org./images/whorld-icon-32x32.gif,http://whorld.org./images/project-support.jpg,http://whorld.org./images/sflogo.png,http://whorld.orgimages/frontpage.jpg,http://whorld.orgimages/smallwhorlddance.jpg,http://whorld.orgimages/equipment-staff-sm.jpg]" /></td>
+<td style="vertical-align: top;"><strong>Whorld - Home</strong></td>
+</tr>
+<tr class="preview_footer">
+<td colspan="2">Source: <a href="http://whorld.org">whorld.org </a></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<div style="text-align: center;"></div>
 &nbsp;
 <div style="text-align: center;"></div>
 <a href="https://github.com/pizthewiz/Screener" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Screener</span></span></span></span></a>
