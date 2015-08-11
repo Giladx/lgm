@@ -148,14 +148,14 @@ Here are some links for open source tools for video &amp; image processing
 </tbody>
 </table>
 &nbsp;
-<table id="at_preview">
+<table id="at_preview" style="height: 9px;" width="102">
 <tbody>
 <tr>
-<td width="100"><img src="http://c18.statcounter.com/counter.php?sc_project=1909535&amp;java=0&amp;security=08df0095&amp;invisible=1" alt="" width="100" data-src="[http://c18.statcounter.com/counter.php?sc_project=1909535&amp;java=0&amp;security=08df0095&amp;invisible=1,http://www.artificialeyes.tv//files/aeheader.png,http://www.artificialeyes.tv//files/Anonfather.jpg,http://www.artificialeyes.tv//files/Anonfather.jpg,http://www.artificialeyes.tv//files/boysfrombrazil-exilesurfer.jpg,http://www.artificialeyes.tv//files/2ly3blj.jpeg]" /></td>
-<td style="vertical-align: top;"><strong>artificialeyes.tv</strong></td>
+<td width="100"></td>
+<td style="vertical-align: top;"></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.artificialeyes.tv/">www.artificialeyes.tv/</a></td>
+<td colspan="2"></td>
 </tr>
 </tbody>
 </table>
