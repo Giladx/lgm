@@ -35,8 +35,6 @@ url-httpwww-openframeworks-cc:
 
 Here are some links for open source tools for video &amp; image processing
 
-<a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
-
 &nbsp;
 <table id="at_preview" style="height: 99px;" width="260">
 <tbody>
@@ -391,6 +389,8 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
+<a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
+
 <a href="https://github.com/pizthewiz/Screener" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Screener</span></span></span></span></a>
 
 Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -<a href="https://github.com/Onyx-VJ" target="_blank">Download</a>-
