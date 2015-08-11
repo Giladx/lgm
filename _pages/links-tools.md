@@ -53,10 +53,10 @@ Here are some links for open source tools for video &amp; image processing
 <tbody>
 <tr>
 <td width="100"><img src="http://flxer.net//_images/logoFLxER.gif" alt="" width="100" data-src="[http://flxer.net//_images/logoFLxER.gif,https://adserver.flxer.net/3/4/img,http://flxer.net//warehouse/2012/11/400x300/stone-sculpture-sound_0_jpg.jpg,http://flxer.net//_images/carosello_back.gif,http://flxer.net//_images/carosello_stop.gif,http://flxer.net//_images/carosello_for.gif]" /></td>
-<td style="vertical-align: top;"><strong>FLxER - PERFORMING VIDEO NETWORK AND SOFTWARE</strong> <span style="display: block; margin-top: 8px;">Not only an AV mixing, free software but the biggest community platform for video artists, VJs and visual performers which allows you to create your profile, show your performances and manage your footage</span></td>
+<td style="vertical-align: top; text-align: left;"><strong>FLxER - PERFORMING VIDEO NETWORK AND SOFTWARE</strong> <span style="display: block; margin-top: 8px;">Not only an AV mixing, free software but the biggest community platform for video artists, VJs and visual performers which allows you to create your profile, show your performances and manage your footage</span></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://flxer.net/">flxer.net/ </a></td>
+<td style="text-align: left;" colspan="2">Source: <a href="http://flxer.net/">flxer.net/ </a></td>
 </tr>
 </tbody>
 </table>
@@ -126,7 +126,7 @@ Here are some links for open source tools for video &amp; image processing
 <tbody>
 <tr>
 <td width="100"><img src="http://opentzt.sourceforge.net/images/ss_intro_small.jpg" alt="" width="100" data-src="[http://opentzt.sourceforge.net/images/ss_intro_small.jpg,http://opentzt.sourceforge.net/images/1pix.gif,http://opentzt.sourceforge.net/images/1pix.gif,http://opentzt.sourceforge.net/images/sf.png]" /></td>
-<td style="vertical-align: top;"></td>
+<td style="vertical-align: top;"> <strong>Opentzt</strong></td>
 </tr>
 <tr class="preview_footer">
 <td colspan="2">Source: <a href="http://opentzt.sourceforge.net/">opentzt.sourceforge.net/ </a></td>
