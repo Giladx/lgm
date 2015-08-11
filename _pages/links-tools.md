@@ -148,8 +148,18 @@ Here are some links for open source tools for video &amp; image processing
 </tbody>
 </table>
 &nbsp;
-
-<img src="http://www.duration.cc/assets/images/duration_logo.png" alt="" width="100" data-src="[http://www.duration.cc/assets/images/duration_logo.png,http://www.duration.cc/assets/images/DurationText.png,http://www.duration.cc/assets/images/mac.png,http://www.duration.cc/assets/images/windows.png,http://www.duration.cc/assets/images/linux.png,http://www.duration.cc/assets/images/play.png]" /><strong>Duration Timeline</strong>Source: <a href="http://www.duration.cc/">www.duration.cc/ </a>
+<table id="at_preview">
+<tbody>
+<tr>
+<td width="100"><img src="http://www.duration.cc/assets/images/duration_logo.png" alt="" width="100" data-src="[http://www.duration.cc/assets/images/duration_logo.png,http://www.duration.cc/assets/images/DurationText.png,http://www.duration.cc/assets/images/mac.png,http://www.duration.cc/assets/images/windows.png,http://www.duration.cc/assets/images/linux.png,http://www.duration.cc/assets/images/play.png]" /></td>
+<td style="vertical-align: top;"><strong>Duration Timeline</strong></td>
+</tr>
+<tr class="preview_footer">
+<td colspan="2">Source: <a href="http://www.duration.cc/">www.duration.cc/ </a></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
 <div style="text-align: center;"></div>
 <table id="at_preview">
 <tbody>
