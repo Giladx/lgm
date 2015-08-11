@@ -148,42 +148,8 @@ Here are some links for open source tools for video &amp; image processing
 </tbody>
 </table>
 &nbsp;
-<table id="at_preview" style="height: 9px;" width="102">
-<tbody>
-<tr>
-<td width="100"></td>
-<td style="vertical-align: top;"></td>
-</tr>
-<tr class="preview_footer">
-<td colspan="2"></td>
-</tr>
-</tbody>
-</table>
-<div style="text-align: center;">
-<table id="at_preview">
-<tbody>
-<tr>
-<td width="100"><img src="http://whorld.org/./images/whorld-icon-32x32.gif" alt="" width="100" data-src="[http://whorld.org/./images/whorld-icon-32x32.gif,http://whorld.org/./images/project-support.jpg,http://whorld.org/./images/sflogo.png,http://whorld.org/images/frontpage.jpg,http://whorld.org/images/smallwhorlddance.jpg,http://whorld.org/images/equipment-staff-sm.jpg]" /></td>
-<td style="vertical-align: top;"><strong>Whorld - Home</strong></td>
-</tr>
-<tr class="preview_footer">
-<td colspan="2">Source: <a href="http://whorld.org/">whorld.org/ </a></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div style="text-align: center;"></div>
-<table id="at_preview">
-<tbody>
-<tr>
-<td width="100"><img src="http://www.duration.cc/assets/images/duration_logo.png" alt="" width="100" data-src="[http://www.duration.cc/assets/images/duration_logo.png,http://www.duration.cc/assets/images/DurationText.png,http://www.duration.cc/assets/images/mac.png,http://www.duration.cc/assets/images/windows.png,http://www.duration.cc/assets/images/linux.png,http://www.duration.cc/assets/images/play.png]" /></td>
-<td style="vertical-align: top;"><strong>Duration Timeline</strong></td>
-</tr>
-<tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.duration.cc/">www.duration.cc/ </a></td>
-</tr>
-</tbody>
-</table>
+
+<img src="http://www.duration.cc/assets/images/duration_logo.png" alt="" width="100" data-src="[http://www.duration.cc/assets/images/duration_logo.png,http://www.duration.cc/assets/images/DurationText.png,http://www.duration.cc/assets/images/mac.png,http://www.duration.cc/assets/images/windows.png,http://www.duration.cc/assets/images/linux.png,http://www.duration.cc/assets/images/play.png]" /><strong>Duration Timeline</strong>Source: <a href="http://www.duration.cc/">www.duration.cc/ </a>
 <div style="text-align: center;"></div>
 <table id="at_preview">
 <tbody>
