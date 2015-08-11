@@ -380,9 +380,17 @@ Here are some links for open source tools for video &amp; image processing
 </tbody>
 </table>
 &nbsp;
-<div style="text-align: center;"></div>
-&nbsp;
-<div style="text-align: center;"></div>
+<table id="at_preview">
+<tbody>
+<tr>
+<td width="100"><img src="http://www.praxislive.org/img/praxislive.png" alt="" width="100" data-src="[http://www.praxislive.org/img/praxislive.png]" /></td>
+<td style="vertical-align: top;"><strong>Praxis LIVE</strong> <span style="display: block; margin-top: 8px;">Praxis LIVE - hybrid visual IDE for live creative coding</span></td>
+</tr>
+<tr class="preview_footer">
+<td colspan="2">Source: <a href="http://www.praxislive.org/">www.praxislive.org/</a></td>
+</tr>
+</tbody>
+</table>
 <a href="https://github.com/pizthewiz/Screener" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Screener</span></span></span></span></a>
 
 Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -<a href="https://github.com/Onyx-VJ" target="_blank">Download</a>-
