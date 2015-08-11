@@ -180,7 +180,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://natron.inria.fr/wp-content/themes/tempera/images/socials/YouTube.png" alt="" width="100" data-src="[http://natron.inria.fr/wp-content/themes/tempera/images/socials/YouTube.png,http://natron.inria.fr/wp-content/themes/tempera/images/socials/Twitter.png,http://natron.inria.fr/files/2014/12/cropped-badeau2.jpg,https://natron.inria.fr/files/2014/12/natron-v9-01-150x150.png,https://natron.inria.fr/files/2014/12/DOWNLOAD-01.png,https://natron.inria.fr/files/2014/12/DRAW-01.png]" /></td>
+<td width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Natron_icon.svg/512px-Natron_icon.svg.png" alt="" width="100" data-src="[http://natron.inria.fr/wp-content/themes/tempera/images/socials/YouTube.png,http://natron.inria.fr/wp-content/themes/tempera/images/socials/Twitter.png,http://natron.inria.fr/files/2014/12/cropped-badeau2.jpg,https://natron.inria.fr/files/2014/12/natron-v9-01-150x150.png,https://natron.inria.fr/files/2014/12/DOWNLOAD-01.png,https://natron.inria.fr/files/2014/12/DRAW-01.png]" /></td>
 <td style="vertical-align: top;"><strong>Natron | Compositing at hand</strong></td>
 </tr>
 <tr class="preview_footer">
