@@ -29,10 +29,13 @@ vidbg_custom_overlay_html:
 url-httpwww-openframeworks-cc:
   - http://www.openframeworks.cc/
 ---
-<p>[mbYTPlayer url="https://youtu.be/HPph35tdMP8" opacity="1" quality="highres" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]</p>
-<p>&nbsp;</p>
-<p>Here are some links for open source tools for video &amp; image processing</p>
-<p>&nbsp;</p>
+[mbYTPlayer url="https://youtu.be/HPph35tdMP8" opacity="1" quality="highres" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
+
+&nbsp;
+
+Here are some links for open source tools for video &amp; image processing
+
+&nbsp;
 <table id="at_preview" style="height: 99px;" width="260">
 <tbody>
 <tr>
@@ -142,7 +145,7 @@ url-httpwww-openframeworks-cc:
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -154,7 +157,7 @@ url-httpwww-openframeworks-cc:
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+&nbsp;
 <div style="text-align: center;"></div>
 <table id="at_preview">
 <tbody>
@@ -167,7 +170,7 @@ url-httpwww-openframeworks-cc:
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -179,7 +182,7 @@ url-httpwww-openframeworks-cc:
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -200,17 +203,17 @@ url-httpwww-openframeworks-cc:
 <td style="vertical-align: top; text-align: left;"><strong>vvvv </strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://vvvv.org/">vvvv.org/ </a></td>
+<td style="text-align: left;" colspan="2">Source: <a href="http://vvvv.org/">vvvv.org/ </a></td>
 </tr>
 </tbody>
 </table>
 </div>
-<div style="text-align: center;"></div>
+<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
 <td width="100"><img src="http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png" alt="" width="100" data-src="[http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png,http://vvvv.org/sites/default/files/_root_MAIN-gui_2009.05.22-04.52.59.jpg]" /></td>
-<td style="vertical-align: top;"><strong>Svvvvitcher | vvvv</strong> <span style="display: block; margin-top: 8px;"><br />
+<td style="vertical-align: top;"><strong>Svvvvitcher | vvvv</strong> <span style="display: block; margin-top: 8px;">
 </span></td>
 </tr>
 <tr class="preview_footer">
@@ -259,8 +262,8 @@ url-httpwww-openframeworks-cc:
 <tbody>
 <tr>
 <td width="100"><img src="http://www.solderlab.de//images/logo/logo_sl_bloom_4.png" alt="" width="100" data-src="[http://www.solderlab.de//images/logo/logo_sl_bloom_4.png,http://www.solderlab.de//images/logo/banner_sl_v3.jpg,http://www.solderlab.de//images/led-projects/menu_12x8RGBMatrix.jpg,http://www.solderlab.de//images/led-projects/menu_globe.jpg,http://www.solderlab.de//images/led-projects/replicas/menu_Falko.JPG,http://www.solderlab.de//images/led-projects/replicas/menu_Mitruel.png]" /></td>
-<td style="vertical-align: top;"><strong>Solderlab</strong><br />
-<span style="display: block; margin-top: 8px;"><br />
+<td style="vertical-align: top;"><strong>Solderlab</strong>
+<span style="display: block; margin-top: 8px;">
 </span></td>
 </tr>
 <tr class="preview_footer">
@@ -292,7 +295,7 @@ url-httpwww-openframeworks-cc:
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -304,7 +307,7 @@ url-httpwww-openframeworks-cc:
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -340,7 +343,7 @@ url-httpwww-openframeworks-cc:
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -352,12 +355,12 @@ url-httpwww-openframeworks-cc:
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
 <td width="100"><img class="aligncenter" src="http://www.luzstudio.net/_upload/s_20150128122425m48p7g_FascinoscopeClocherUQAMphotoCindyBoyce_Quartierdesspectacles.jpg" alt="" width="68" height="101" data-src="[http://www.luzstudio.net/_upload/s_20150128122425m48p7g_FascinoscopeClocherUQAMphotoCindyBoyce_Quartierdesspectacles.jpg,http://www.luzstudio.net/_upload/s_20140404122827i1jycn_AAA_5490.jpg,http://www.luzstudio.net/_upload/s_20140710162750hfezqh_fosterthepeople_0501fea006.JPG,http://www.luzstudio.net/_upload/s_20140527110315ldrp51_GCiampini_IndieAwards_Edited-1825.jpg,http://www.luzstudio.net/_upload/s_20140404125725v1rpsl_DSC_2240.jpg,http://www.luzstudio.net/_upload/s_20141003132440zgscex_DSC_6161.jpg]" /></td>
-<td style="vertical-align: top;"><strong>Lüz Studio</strong> <span style="display: block; margin-top: 8px;"><br />
+<td style="vertical-align: top;"><strong>Lüz Studio</strong> <span style="display: block; margin-top: 8px;">
 </span></td>
 </tr>
 <tr class="preview_footer">
@@ -365,7 +368,7 @@ url-httpwww-openframeworks-cc:
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -377,12 +380,12 @@ url-httpwww-openframeworks-cc:
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
 <td width="100"><img src="http://www.praxislive.org/img/praxislive.png" alt="" width="100" data-src="[http://www.praxislive.org/img/praxislive.png]" /></td>
-<td style="vertical-align: top;"><strong>Praxis LIVE</strong> <span style="display: block; margin-top: 8px;"><br />
+<td style="vertical-align: top;"><strong>Praxis LIVE</strong> <span style="display: block; margin-top: 8px;">
 </span></td>
 </tr>
 <tr class="preview_footer">
@@ -390,22 +393,40 @@ url-httpwww-openframeworks-cc:
 </tr>
 </tbody>
 </table>
-<p><a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt</p>
-<p><a href="https://github.com/pizthewiz/Screener" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Screener</span></span></span></span></a></p>
-<p>Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -<a href="https://github.com/Onyx-VJ" target="_blank">Download</a>-</p>
-<p><a href="https://hcgilje.wordpress.com/vpt/">VPT</a></p>
-<p><a href="http://www.gephex.org/" target="_blank">Gephex</a></p>
-<p><a href="http://www.gephex.org/">Processing</a></p>
-<p><a href="http://lives-video.com/" target="_blank">LiVES</a></p>
-<p>Luz Studio</p>
-<p><a href="http://www.moldeo.org" target="_blank">Moldeo</a></p>
-<p><a href="https://github.com/YCAMInterlab" target="_blank">YCAMInterlab</a> - (Source Code)</p>
-<p><a href="https://github.com/Reymenta-Visuals" target="_blank">Reymenta Visuals</a> - (Source Code)</p>
-<p><span data-reactid=".4h.1:5:1:$comment909994599074114_910392595700981:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910392595700981:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910392595700981:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910392595700981:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0"><a href="http://www.mapmap.info/tiki-index.php?page=HomePage#section-download" target="_blank">MapMap</a></span></span></span></span></p>
-<p><span data-reactid=".4h.1:5:1:$comment909994599074114_910400232366884:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910400232366884:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910400232366884:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910400232366884:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0"><a href="https://www.nodebox.net/" target="_blank">NodeBox</a></span></span></span></span></p>
-<p><a href="http://www.plask.org/" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910404675699773:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910404675699773:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910404675699773:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910404675699773:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Plask</span></span></span></span></a></p>
-<p><a href="https://mozillalabs.com/en-US/Popcorn/" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910405069033067:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910405069033067:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910405069033067:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910405069033067:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Popcorn Maker</span></span></span></span></a></p>
-<p><span data-reactid=".4h.1:5:1:$comment909994599074114_910406615699579:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910406615699579:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910406615699579:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910406615699579:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0"><a href="https://inkscape.org/en/" target="_blank">Inkscape</a></span></span></span></span></p>
-<p><span data-reactid=".4h.1:5:1:$comment909994599074114_910408629032711:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910408629032711:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910408629032711:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910408629032711:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0"><a href="https://kdenlive.org/features" target="_blank">KDEnLive</a></span></span></span></span></p>
-<p><a href="http://www.synfig.org/cms/" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910423385697902:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910423385697902:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910423385697902:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910423385697902:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Synfig Studio</span></span></span></span></a></p>
-<p><a href="https://en.wikipedia.org/wiki/Quartz_Composer" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910784148995159:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910784148995159:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910784148995159:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910784148995159:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Quartz Composer</span></span></span></span></a></p>
+<a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
+
+<a href="https://github.com/pizthewiz/Screener" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Screener</span></span></span></span></a>
+
+Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -<a href="https://github.com/Onyx-VJ" target="_blank">Download</a>-
+
+<a href="https://hcgilje.wordpress.com/vpt/">VPT</a>
+
+<a href="http://www.gephex.org/" target="_blank">Gephex</a>
+
+<a href="http://www.gephex.org/">Processing</a>
+
+<a href="http://lives-video.com/" target="_blank">LiVES</a>
+
+Luz Studio
+
+<a href="http://www.moldeo.org" target="_blank">Moldeo</a>
+
+<a href="https://github.com/YCAMInterlab" target="_blank">YCAMInterlab</a> - (Source Code)
+
+<a href="https://github.com/Reymenta-Visuals" target="_blank">Reymenta Visuals</a> - (Source Code)
+
+<span data-reactid=".4h.1:5:1:$comment909994599074114_910392595700981:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910392595700981:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910392595700981:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910392595700981:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0"><a href="http://www.mapmap.info/tiki-index.php?page=HomePage#section-download" target="_blank">MapMap</a></span></span></span></span>
+
+<span data-reactid=".4h.1:5:1:$comment909994599074114_910400232366884:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910400232366884:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910400232366884:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910400232366884:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0"><a href="https://www.nodebox.net/" target="_blank">NodeBox</a></span></span></span></span>
+
+<a href="http://www.plask.org/" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910404675699773:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910404675699773:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910404675699773:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910404675699773:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Plask</span></span></span></span></a>
+
+<a href="https://mozillalabs.com/en-US/Popcorn/" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910405069033067:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910405069033067:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910405069033067:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910405069033067:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Popcorn Maker</span></span></span></span></a>
+
+<span data-reactid=".4h.1:5:1:$comment909994599074114_910406615699579:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910406615699579:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910406615699579:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910406615699579:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0"><a href="https://inkscape.org/en/" target="_blank">Inkscape</a></span></span></span></span>
+
+<span data-reactid=".4h.1:5:1:$comment909994599074114_910408629032711:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910408629032711:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910408629032711:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910408629032711:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0"><a href="https://kdenlive.org/features" target="_blank">KDEnLive</a></span></span></span></span>
+
+<a href="http://www.synfig.org/cms/" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910423385697902:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910423385697902:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910423385697902:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910423385697902:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Synfig Studio</span></span></span></span></a>
+
+<a href="https://en.wikipedia.org/wiki/Quartz_Composer" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910784148995159:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910784148995159:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910784148995159:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910784148995159:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Quartz Composer</span></span></span></span></a>
