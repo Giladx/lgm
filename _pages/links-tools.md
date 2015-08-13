@@ -60,7 +60,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-
 <table id="at_preview">
 <tbody>
 <tr>
@@ -72,7 +71,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-</div>
 <div style="text-align: center;"></div>
 <table id="at_preview">
 <tbody>
@@ -338,6 +336,7 @@ Here are some links for open source tools for video &amp; image processing
 <td width="100"><img class="" src="http://vjunion.net/uploads/default/166/76b68a9e2fba3689.png" alt="" width="196" height="53" data-src="[http://vjunion.net/uploads/default/166/76b68a9e2fba3689.png]" /></td>
 <td style="vertical-align: top;"><strong>VJ Union- Shader Maker</strong></td>
 </tr>
+&nbsp;
 <tr class="preview_footer">
 <td colspan="2">Source: <a href="http://vjunion.net/.../shadermaker-for-windows-osx.../596">vjunion.net/.../shadermaker-for-windows-osx.../596 </a></td>
 </tr>
