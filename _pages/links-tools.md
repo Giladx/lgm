@@ -49,7 +49,23 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-<div style="text-align: center;"></div>
+<div style="text-align: center;">
+<table id="at_preview" style="height: 82px;" width="205">
+<tbody>
+
+&nbsp;
+
+<tr>
+<td width="100"><img src="http://forum.processing.org/processing-org.jpg" alt="" width="100" data-src="http://forum.processing.org/processing-org.jpg" /></td>
+<td style="vertical-align: top;"><strong>Processing</strong></td>
+</tr>
+<tr class="preview_footer">
+<td colspan="2">Source: <a href="https://processing.org/">processing.org/ </a></td>
+</tr>
+</tbody>
+</table>
+<div></div>
+</div>
 <div style="text-align: center;">
 <table id="at_preview">
 <tbody>
@@ -434,10 +450,6 @@ Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -
 <a href="https://hcgilje.wordpress.com/vpt/">VPT</a>
 
 <a href="https://processing.org/" target="_blank">Processing</a>
-
-<a href="http://lives-video.com/" target="_blank">LiVES</a>
-
-Luz Studio
 
 <a href="http://www.moldeo.org" target="_blank">Moldeo</a>
 
