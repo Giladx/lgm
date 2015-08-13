@@ -50,7 +50,7 @@ Here are some links for open source tools for video &amp; image processing
 </tbody>
 </table>
 <div style="text-align: center;">
-<table id="at_preview" style="height: 82px;" width="205">
+<table id="at_preview" class=" alignleft" style="height: 82px;" width="205">
 <tbody>
 
 &nbsp;
@@ -64,8 +64,15 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-<div></div>
 </div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
 <div style="text-align: center;">
 <table id="at_preview">
 <tbody>
