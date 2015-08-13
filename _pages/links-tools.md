@@ -60,15 +60,7 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
-<div style="text-align: left;"></div>
-<div style="text-align: left;"></div>
-<div style="text-align: left;"></div>
-<div style="text-align: left;"></div>
-<div style="text-align: left;"></div>
-<div style="text-align: left;"></div>
-<div style="text-align: left;"></div>
-<div style="text-align: center;">
+
 <table id="at_preview">
 <tbody>
 <tr>
