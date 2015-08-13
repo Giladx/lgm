@@ -445,6 +445,37 @@ Here are some links for open source tools for video &amp; image processing
 <div></div>
 </div>
 &nbsp;
+<table id="at_preview">
+<tbody>
+<tr>
+<td width="100"><img class="" src="http://www.makehuman.org/images/logo.png" alt="" width="212" height="57" data-src="[http://www.makehuman.org/images/logo.png,http://www.makehuman.org/images/facebook.png,http://www.makehuman.org/images/twitter.png,http://www.makehuman.org/images/youtube.png,http://www.makehuman.org/images/irc.png,http://www.makehuman.org/images/vimeo.png]" /></td>
+<td style="vertical-align: top;"><strong>MakeHuman</strong></td>
+</tr>
+<tr class="preview_footer">
+<td colspan="2">Source: <a href="http://www.makehuman.org/">www.makehuman.org/ </a></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<div style="text-align: center;"></div>
+<div style="text-align: left;">
+<table id="at_preview">
+<tbody>
+<tr>
+<td width="100"><img src="http://loveguerrillamarketing.com/wp-content/uploads/2015/08/339px-Voria_Logo.svg_.png" alt="" width="100" data-src="[http://loveguerrillamarketing.com/wp-content/uploads/2015/08/339px-Voria_Logo.svg_.png]" /></td>
+<td style="vertical-align: top;"><strong>Synfig Studio
+</strong></td>
+</tr>
+<tr class="preview_footer">
+<td colspan="2">Source: <a href="http://www.synfig.org/cms/">www.synfig.org/cms/ </a></td>
+</tr>
+</tbody>
+</table>
+<div>
+<div style="text-align: center;"></div>
+</div>
+</div>
+&nbsp;
 
 &nbsp;
 
