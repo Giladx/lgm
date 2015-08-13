@@ -28,6 +28,8 @@ vidbg_custom_overlay_html:
   - ""
 url-httpwww-openframeworks-cc:
   - http://www.openframeworks.cc/
+url-httpwww-gephex-org:
+  - http://www.gephex.org/
 ---
 [mbYTPlayer url="https://youtu.be/HPph35tdMP8" opacity="1" quality="highres" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
@@ -393,7 +395,33 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-[link-preview url="http://www.gephex.org/"]
+&nbsp;
+<table id="at_preview">
+<tbody>
+<tr>
+<td width="100"><img src="http://www.gephex.org/images/logo.png" alt="" width="100" data-src="[http://www.gephex.org/images/logo.png]" /></td>
+<td style="vertical-align: top;"><strong>Gephex - video jockey software</strong></td>
+</tr>
+<tr class="preview_footer">
+<td colspan="2">Source: <a href="http://www.gephex.org/">www.gephex.org/ </a></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<table id="at_preview">
+<tbody>
+<tr>
+<td width="100"><img src="http://ubuntuhandbook.org/wp-content/uploads/2015/05/lives-video-editor-icon.png" alt="" width="100" data-src="[http://lives-video.com/images/rss-with-icon2.gif,http://gmodules.com/ig/images/plus_google.gif,http://lives-video.com/images/splink.png,http://lives-video.com/images/gpl.png,http://lives-video.com/images/IMG_2929_tm.JPG]" /></td>
+<td style="vertical-align: top;"><strong>LiVES Video Editing System - Because the media should be open</strong> <span style="display: block; margin-top: 8px;">LiVES - Open media and free video editing and VJ software for Linux</span></td>
+</tr>
+<tr class="preview_footer">
+<td colspan="2">Source: <a href="http://lives-video.com/">lives-video.com/ </a></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<div style="text-align: center;"></div>
+&nbsp;
 
 <a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
 
@@ -403,9 +431,7 @@ Onyx-VJ -<a href="https://www.videopong.net/onyx/" target="_blank">Online</a>- -
 
 <a href="https://hcgilje.wordpress.com/vpt/">VPT</a>
 
-<a href="http://www.gephex.org/" target="_blank">Gephex</a>
-
-<a href="http://www.gephex.org/">Processing</a>
+<a href="https://processing.org/" target="_blank">Processing</a>
 
 <a href="http://lives-video.com/" target="_blank">LiVES</a>
 
