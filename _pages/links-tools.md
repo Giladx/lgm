@@ -412,7 +412,7 @@ Here are some links for open source tools for video &amp; image processing
 <tbody>
 <tr>
 <td width="100"><img src="http://ubuntuhandbook.org/wp-content/uploads/2015/05/lives-video-editor-icon.png" alt="" width="100" data-src="[http://ubuntuhandbook.org/wp-content/uploads/2015/05/lives-video-editor-icon.png,http://ubuntuhandbook.org/wp-content/uploads/2015/05/lives-video-editor-icon.png,http://lives-video.com/images/splink.png,http://ubuntuhandbook.org/wp-content/uploads/2015/05/lives-video-editor-icon.png]" /></td>
-<td style="vertical-align: top;"><strong>LiVES Video Editing System - Because the media should be open</strong> <span style="display: block; margin-top: 8px;">LiVES - Open media and free video editing and VJ software for Linux</span></td>
+<td style="vertical-align: top;"><strong>LiVES </strong></td>
 </tr>
 <tr class="preview_footer">
 <td colspan="2">Source: <a href="http://lives-video.com/">lives-video.com/ </a></td>
