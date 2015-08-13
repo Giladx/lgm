@@ -49,12 +49,8 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-<div style="text-align: center;">
 <table id="at_preview" class=" alignleft" style="height: 82px;" width="205">
 <tbody>
-
-&nbsp;
-
 <tr>
 <td width="100"><img src="http://forum.processing.org/processing-org.jpg" alt="" width="100" data-src="http://forum.processing.org/processing-org.jpg" /></td>
 <td style="vertical-align: top;"><strong>Processing</strong></td>
@@ -64,7 +60,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-</div>
 <div style="text-align: left;"></div>
 <div style="text-align: left;"></div>
 <div style="text-align: left;"></div>
