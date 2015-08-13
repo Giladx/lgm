@@ -411,8 +411,8 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://ubuntuhandbook.org/wp-content/uploads/2015/05/lives-video-editor-icon.png" alt="" width="100" data-src="[http://ubuntuhandbook.org/wp-content/uploads/2015/05/lives-video-editor-icon.png,http://ubuntuhandbook.org/wp-content/uploads/2015/05/lives-video-editor-icon.png,http://lives-video.com/images/splink.png,http://ubuntuhandbook.org/wp-content/uploads/2015/05/lives-video-editor-icon.png]" /></td>
-<td style="vertical-align: top;"><strong>LiVES </strong></td>
+<td width="100"><img src="http://ubuntuhandbook.org/wp-content/uploads/2015/05/lives-video-editor-icon.png" alt="" width="100" data-src="[http://lives-video.com/images/rss-with-icon2.gif,http://gmodules.com/ig/images/plus_google.gif,http://lives-video.com/images/splink.png,http://lives-video.com/images/gpl.png,http://lives-video.com/images/IMG_2929_tm.JPG]" /></td>
+<td style="vertical-align: top;"><strong>LiVES Video </strong></td>
 </tr>
 <tr class="preview_footer">
 <td colspan="2">Source: <a href="http://lives-video.com/">lives-video.com/ </a></td>
@@ -421,6 +421,8 @@ Here are some links for open source tools for video &amp; image processing
 </table>
 &nbsp;
 <div style="text-align: center;"></div>
+&nbsp;
+
 &nbsp;
 
 <a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
