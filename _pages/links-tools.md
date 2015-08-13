@@ -430,7 +430,20 @@ Here are some links for open source tools for video &amp; image processing
 </tbody>
 </table>
 &nbsp;
-<div style="text-align: center;"></div>
+<div style="text-align: left;">
+<table id="at_preview">
+<tbody>
+<tr>
+<td width="100"><img src="http://animata.kibu.hu/img/thumb_001.jpg" alt="" width="100" data-src="[http://animata.kibu.hu/img/thumb_001.jpg,http://animata.kibu.hu/img/thumb_002.jpg,http://animata.kibu.hu/img/thumb_003.jpg]" /></td>
+<td style="vertical-align: top; text-align: left;"><strong>Animata</strong></td>
+</tr>
+<tr class="preview_footer">
+<td style="text-align: left;" colspan="2">Source: <a href="http://animata.kibu.hu/">animata.kibu.hu/ </a></td>
+</tr>
+</tbody>
+</table>
+<div></div>
+</div>
 &nbsp;
 
 &nbsp;
