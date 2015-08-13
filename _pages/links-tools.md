@@ -330,23 +330,24 @@ Here are some links for open source tools for video &amp; image processing
 </tbody>
 </table>
 <div></div>
+&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
 <td width="100"><img class="" src="http://vjunion.net/uploads/default/166/76b68a9e2fba3689.png" alt="" width="196" height="53" data-src="[http://vjunion.net/uploads/default/166/76b68a9e2fba3689.png]" /></td>
 <td style="vertical-align: top;"><strong>VJ Union- Shader Maker</strong></td>
 </tr>
-&nbsp;
 <tr class="preview_footer">
 <td colspan="2">Source: <a href="http://vjunion.net/.../shadermaker-for-windows-osx.../596">vjunion.net/.../shadermaker-for-windows-osx.../596 </a></td>
 </tr>
 </tbody>
 </table>
 <div></div>
+<div></div>
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img class="" src="http://meshwarpserver.org/wp-content/uploads/cropped-logo.png" alt="" width="195" height="37" data-src="[http://meshwarpserver.org/wp-content/uploads/cropped-logo.png,http://meshwarpserver.org/wp-content/plugins/facebook-button-plugin/images/standard-facebook-ico.png]" /></td>
+<td width="100"><img class="" src="http://meshwarpserver.org/wp-content/uploads/cropped-logo.png" alt="" width="258" height="49" data-src="[http://meshwarpserver.org/wp-content/uploads/cropped-logo.png,http://meshwarpserver.org/wp-content/plugins/facebook-button-plugin/images/standard-facebook-ico.png]" /></td>
 <td style="vertical-align: top;"><strong> MeshWarpServer</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -395,7 +396,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://www.praxislive.org/img/praxislive.png" alt="" width="100" data-src="[http://www.praxislive.org/img/praxislive.png]" /></td>
+<td width="100"><img class="" src="http://www.praxislive.org/img/praxislive.png" alt="" width="168" height="42" data-src="[http://www.praxislive.org/img/praxislive.png]" /></td>
 <td style="vertical-align: top;"><strong>Praxis LIVE</strong> <span style="display: block; margin-top: 8px;">
 </span></td>
 </tr>
@@ -408,7 +409,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://www.gephex.org/images/logo.png" alt="" width="100" data-src="[http://www.gephex.org/images/logo.png]" /></td>
+<td width="100"><img class="" src="http://www.gephex.org/images/logo.png" alt="" width="204" height="47" data-src="[http://www.gephex.org/images/logo.png]" /></td>
 <td style="vertical-align: top;"><strong>Gephex - video jockey software</strong></td>
 </tr>
 <tr class="preview_footer">
