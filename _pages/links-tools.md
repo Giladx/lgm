@@ -457,7 +457,6 @@ Here are some links for open source tools for video &amp; image processing
 </tbody>
 </table>
 &nbsp;
-<div style="text-align: center;"></div>
 <div style="text-align: left;">
 <table id="at_preview">
 <tbody>
@@ -471,9 +470,7 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-<div>
-<div style="text-align: center;"></div>
-</div>
+<div></div>
 </div>
 &nbsp;
 
