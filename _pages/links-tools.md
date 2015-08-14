@@ -483,8 +483,23 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
+<div></div>
+<div>
+<table id="at_preview">
+<tbody>
+<tr>
+<td width="100"><img src="http://www.geeks3d.com/glslhacker/./images/glsl_hacker_logo_20141112_03.jpg" alt="" width="100" data-src="[http://www.geeks3d.com/glslhacker/./images/glsl_hacker_logo_20141112_03.jpg,http://www.geeks3d.com/glslhacker/images/glsl_hacker_demo01.jpg,http://www.geeks3d.com/glslhacker/images/glsl_hacker_demo02.jpg,http://www.geeks3d.com/glslhacker/images/glsl_hacker_demo03.jpg,http://www.geeks3d.com/glslhacker/images/glsl_hacker_demo04.jpg]" /></td>
+<td style="vertical-align: top;"><strong>GLSL Hacker</strong> <span style="display: block; margin-top: 8px;">
+</span></td>
+</tr>
+<tr class="preview_footer">
+<td colspan="2">Source: <a href="http://www.geeks3d.com/glslhacker/">www.geeks3d.com/glslhacker/ </a></td>
+</tr>
+</tbody>
+</table>
 <div>
 <div style="text-align: center;"></div>
+</div>
 </div>
 </div>
 </div>
