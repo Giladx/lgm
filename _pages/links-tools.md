@@ -517,12 +517,9 @@ Here are some links for open source tools for video &amp; image processing
 </table>
 <div></div>
 </div>
-<div><a href="https://www.shadertoy.com/" target="_blank">ShaderToy</a></div>
 </div>
 </div>
 </div>
-&nbsp;
-
 <a href="https://github.com/Giladx/lpmtX" target="_blank"><img class="alignnone" src="https://lh6.ggpht.com/Fudz3AikqUsxWYDgQHZMR1PSPCtyl1zVwJa1Do3B8roz3sOhmhIh6g_YHLVWqHo0EX4=w300" alt="" width="56" height="56" /></a>     <a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
 
 <a href="https://github.com/Giladx/lpmtX" target="_blank"><img class="alignnone" src="https://lh6.ggpht.com/Fudz3AikqUsxWYDgQHZMR1PSPCtyl1zVwJa1Do3B8roz3sOhmhIh6g_YHLVWqHo0EX4=w300" alt="" width="56" height="56" /></a>     <a href="https://github.com/pizthewiz/Screener" target="_blank">Screener</a>
@@ -534,6 +531,8 @@ Here are some links for open source tools for video &amp; image processing
 <a href="https://github.com/Giladx/lpmtX" target="_blank"><img class="alignnone" src="https://lh6.ggpht.com/Fudz3AikqUsxWYDgQHZMR1PSPCtyl1zVwJa1Do3B8roz3sOhmhIh6g_YHLVWqHo0EX4=w300" alt="" width="56" height="56" /></a>     <a href="https://github.com/Reymenta-Visuals" target="_blank">Reymenta Visuals</a> - (Source Code)
 
 <span data-reactid=".4h.1:5:1:$comment909994599074114_910392595700981:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910392595700981:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910392595700981:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910392595700981:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0"><a href="https://github.com/Giladx/lpmtX" target="_blank"><img class="alignnone" src="https://lh6.ggpht.com/Fudz3AikqUsxWYDgQHZMR1PSPCtyl1zVwJa1Do3B8roz3sOhmhIh6g_YHLVWqHo0EX4=w300" alt="" width="56" height="56" /></a>     <a href="http://www.mapmap.info/tiki-index.php?page=HomePage#section-download" target="_blank">MapMap</a></span></span></span></span>
+
+<a href="https://www.shadertoy.com/" target="_blank">ShaderToy</a>
 
 <a href="https://hcgilje.wordpress.com/vpt/">VPT</a>
 
