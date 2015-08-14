@@ -45,11 +45,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>openFrameworks</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.openframeworks.cc/">www.openframeworks.cc/ </a></td>
+<td colspan="2">Source: <a href="http://www.openframeworks.cc/">www.openframeworks.cc/</a></td>
 </tr>
 </tbody>
 </table>
-&nbsp;
 <table id="at_preview" class=" alignleft" style="height: 82px;" width="205">
 <tbody>
 <tr>
@@ -66,10 +65,6 @@ Here are some links for open source tools for video &amp; image processing
 &nbsp;
 
 &nbsp;
-
-&nbsp;
-
-&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -81,7 +76,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -89,11 +83,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>blender.org </strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.blender.org/">www.blender.org/ </a></td>
+<td colspan="2">Source: <a href="http://www.blender.org/">www.blender.org/</a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -101,11 +94,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong> (fluxus)</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.pawfal.org/fluxus/">www.pawfal.org/fluxus/ </a></td>
+<td colspan="2">Source: <a href="http://www.pawfal.org/fluxus/">www.pawfal.org/fluxus/ </a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -113,11 +105,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>REC2012 :: </strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://recmadrid.com/2012/vjplayer/">recmadrid.com/2012/vjplayer/ </a></td>
+<td colspan="2">Source: <a href="http://recmadrid.com/2012/vjplayer/">recmadrid.com/2012/vjplayer/ </a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -125,11 +116,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong> Pure Data  </strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://puredata.info/">puredata.info/ </a></td>
+<td colspan="2">Source: <a href="http://puredata.info/">puredata.info/</a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -137,11 +127,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>FreeJ</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://freej.org/">freej.org/ </a></td>
+<td colspan="2">Source: <a href="http://freej.org/">freej.org/</a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -149,11 +138,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"> <strong>Opentzt</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://opentzt.sourceforge.net/">opentzt.sourceforge.net/ </a></td>
+<td colspan="2">Source: <a href="http://opentzt.sourceforge.net/">opentzt.sourceforge.net/ </a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -161,11 +149,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>glitchNES</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://no-carrier.com/index.php?/glitchnes/">no-carrier.com/index.php?/glitchnes/ </a></td>
+<td colspan="2">Source: <a href="http://no-carrier.com/index.php?/glitchnes/">no-carrier.com/index.php?/glitchnes/</a></td>
 </tr>
 </tbody>
 </table>
-&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -177,7 +164,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -189,7 +175,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -197,11 +182,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>VPaint </strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.vpaint.org/">www.vpaint.org/ </a></td>
+<td colspan="2">Source: <a href="http://www.vpaint.org/">www.vpaint.org/ </a></td>
 </tr>
 </tbody>
 </table>
-&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -209,11 +193,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>Natron </strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://natron.inria.fr/">natron.inria.fr/ </a></td>
+<td colspan="2">Source: <a href="http://natron.inria.fr/">natron.inria.fr/ </a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <div style="text-align: center;">
 <table id="at_preview">
 <tbody>
@@ -227,7 +210,6 @@ Here are some links for open source tools for video &amp; image processing
 </tbody>
 </table>
 </div>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -236,11 +218,10 @@ Here are some links for open source tools for video &amp; image processing
 </span></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://vvvv.org/contribution/svvvvitcher">vvvv.org/contribution/svvvvitcher </a></td>
+<td colspan="2">Source: <a href="http://vvvv.org/contribution/svvvvitcher">vvvv.org/contribution/svvvvitcher </a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -248,11 +229,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>Vuo</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://vuo.org/">vuo.org/ </a></td>
+<td colspan="2">Source: <a href="http://vuo.org/">vuo.org/</a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -260,11 +240,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>VSXu </strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.vsxu.com/">www.vsxu.com/ </a></td>
+<td colspan="2">Source: <a href="http://www.vsxu.com/">www.vsxu.com/ </a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -272,11 +251,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>WebcamStudio </strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://sourceforge.net/projects/webcamstudio/">sourceforge.net/projects/webcamstudio/ </a></td>
+<td colspan="2">Source: <a href="http://sourceforge.net/projects/webcamstudio/">sourceforge.net/projects/webcamstudio/ </a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -286,11 +264,10 @@ Here are some links for open source tools for video &amp; image processing
 </span></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.solderlab.de/">www.solderlab.de/ </a></td>
+<td colspan="2">Source: <a href="http://www.solderlab.de/">www.solderlab.de/ </a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -298,11 +275,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>QGifer </strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://sourceforge.net/projects/qgifer/">sourceforge.net/projects/qgifer/ </a></td>
+<td colspan="2">Source: <a href="http://sourceforge.net/projects/qgifer/">sourceforge.net/projects/qgifer/ </a></td>
 </tr>
 </tbody>
 </table>
-<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -325,7 +301,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -333,11 +308,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>OpenCV | OpenCV</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://opencv.org">opencv.org </a></td>
+<td colspan="2">Source: <a href="http://opencv.org">opencv.org</a></td>
 </tr>
 </tbody>
 </table>
-<div></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -345,11 +319,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>VJ Union- Shader Maker</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://vjunion.net/.../shadermaker-for-windows-osx.../596">vjunion.net/.../shadermaker-for-windows-osx.../596 </a></td>
+<td colspan="2">Source: <a href="http://vjunion.net/.../shadermaker-for-windows-osx.../596">vjunion.net/.../shadermaker-for-windows-osx.../596 </a></td>
 </tr>
 </tbody>
 </table>
-<div></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -361,7 +334,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -373,7 +345,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -382,11 +353,10 @@ Here are some links for open source tools for video &amp; image processing
 </span></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.luzstudio.net/">www.luzstudio.net/ </a></td>
+<td colspan="2">Source: <a href="http://www.luzstudio.net/">www.luzstudio.net/ </a></td>
 </tr>
 </tbody>
 </table>
-&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -394,11 +364,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>Whorld - Home</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://whorld.org">whorld.org </a></td>
+<td colspan="2">Source: <a href="http://whorld.org">whorld.org</a></td>
 </tr>
 </tbody>
 </table>
-&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -411,7 +380,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -419,11 +387,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>Gephex - video jockey software</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.gephex.org/">www.gephex.org/ </a></td>
+<td colspan="2">Source: <a href="http://www.gephex.org/">www.gephex.org/</a></td>
 </tr>
 </tbody>
 </table>
-&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -431,11 +398,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>LiVES Video </strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://lives-video.com/">lives-video.com/ </a></td>
+<td colspan="2">Source: <a href="http://lives-video.com/">lives-video.com/</a></td>
 </tr>
 </tbody>
 </table>
-&nbsp;
 <div style="text-align: left;">
 <table id="at_preview">
 <tbody>
@@ -444,11 +410,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top; text-align: left;"><strong>Animata</strong></td>
 </tr>
 <tr class="preview_footer">
-<td style="text-align: left;" colspan="2">Source: <a href="http://animata.kibu.hu/">animata.kibu.hu/ </a></td>
+<td style="text-align: left;" colspan="2">Source: <a href="http://animata.kibu.hu/">animata.kibu.hu/ </a></td>
 </tr>
 </tbody>
 </table>
-<div></div>
 </div>
 <table id="at_preview">
 <tbody>
@@ -457,11 +422,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>MakeHuman</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.makehuman.org/">www.makehuman.org/ </a></td>
+<td colspan="2">Source: <a href="http://www.makehuman.org/">www.makehuman.org/</a></td>
 </tr>
 </tbody>
 </table>
-&nbsp;
 <div style="text-align: left;">
 <table id="at_preview">
 <tbody>
@@ -471,11 +435,10 @@ Here are some links for open source tools for video &amp; image processing
 </strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.synfig.org/cms/">www.synfig.org/cms/ </a></td>
+<td colspan="2">Source: <a href="http://www.synfig.org/cms/">www.synfig.org/cms/</a></td>
 </tr>
 </tbody>
 </table>
-<div></div>
 <div>
 <table id="at_preview">
 <tbody>
@@ -484,11 +447,10 @@ Here are some links for open source tools for video &amp; image processing
 <td style="vertical-align: top;"><strong>Pencil</strong></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://pencil.evolus.vn/">pencil.evolus.vn/ </a></td>
+<td colspan="2">Source: <a href="http://pencil.evolus.vn/">pencil.evolus.vn/ </a></td>
 </tr>
 </tbody>
 </table>
-<div></div>
 <div>
 <table id="at_preview">
 <tbody>
@@ -498,11 +460,10 @@ Here are some links for open source tools for video &amp; image processing
 </span></td>
 </tr>
 <tr class="preview_footer">
-<td colspan="2">Source: <a href="http://www.geeks3d.com/glslhacker/">www.geeks3d.com/glslhacker/ </a></td>
+<td colspan="2">Source: <a href="http://www.geeks3d.com/glslhacker/">www.geeks3d.com/glslhacker/ </a></td>
 </tr>
 </tbody>
 </table>
-<div></div>
 <div>
 <table id="at_preview">
 <tbody>
