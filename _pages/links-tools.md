@@ -521,7 +521,9 @@ Here are some links for open source tools for video &amp; image processing
 </div>
 </div>
 </div>
-[embed width="160" height="120" ]http://vdome.us/assets/images/icons/d-github.png[/embed] <a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
+[embed width="125" height="43"]https://assets-cdn.github.com/images/modules/logos_page/Octocat.png[/embed]
+
+<a href="https://github.com/Giladx/lpmtX" target="_blank">lpmtX</a> - a fork of hva lpmt
 
 <a href="https://github.com/pizthewiz/Screener" target="_blank"><span data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1"><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body"><span class="UFICommentBody" data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body.0"><span data-reactid=".4h.1:5:1:$comment909994599074114_910396125700628:0.0.$right.0.$left.0.0.1.$comment-body.0.$text0:0:$text0:0">Screener</span></span></span></span></a>
 
