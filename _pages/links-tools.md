@@ -49,6 +49,9 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
+
+&nbsp;
+
 <table id="at_preview" class=" alignleft" style="height: 82px;" width="205">
 <tbody>
 <tr>
