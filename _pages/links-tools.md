@@ -507,7 +507,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://vdome.us/assets/images/preview/content/phone.png" alt="" width="100" data-src="[http://vdome.us/assets/images/preview/content/phone.png]" /></td>
+<td width="100"><img src="http://vdome.us/assets/images/icons/d-github.png" alt="" width="100" data-src="[http://vdome.us/assets/images/icons/d-github.png]" /></td>
 <td style="vertical-align: top;"><strong>VDOME Software</strong></td>
 </tr>
 <tr class="preview_footer">
