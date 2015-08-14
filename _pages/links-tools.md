@@ -68,6 +68,8 @@ Here are some links for open source tools for video &amp; image processing
 &nbsp;
 
 &nbsp;
+
+&nbsp;
 <table id="at_preview">
 <tbody>
 <tr>
@@ -79,7 +81,7 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-<div style="text-align: center;"></div>
+<div style="text-align: left;"></div>
 <table id="at_preview">
 <tbody>
 <tr>
@@ -312,8 +314,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-<p style="text-align: left;"></p>
-
 <table id="at_preview">
 <tbody>
 <tr>
