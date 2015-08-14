@@ -41,7 +41,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview" style="height: 99px;" width="260">
 <tbody>
 <tr>
-<td width="100"><img src="http://forum.openframeworks.cc/uploads/default/6323/759ab76ac52e4ff4.png" alt="" width="100" data-src="[http://openframeworks.cc/images/of-logo.svg,http://c1776742.cdn.cloudfiles.rackspacecloud.com/images/information/mediacenter/links/130x33_grey.png]" /></td>
+<td width="100"><img class="" src="http://forum.openframeworks.cc/uploads/default/6323/759ab76ac52e4ff4.png" alt="" width="72" height="72" data-src="[http://openframeworks.cc/images/of-logo.svg,http://c1776742.cdn.cloudfiles.rackspacecloud.com/images/information/mediacenter/links/130x33_grey.png]" /></td>
 <td style="vertical-align: top;"><strong>openFrameworks</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -53,7 +53,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview" class=" alignleft" style="height: 82px;" width="205">
 <tbody>
 <tr>
-<td width="100"><img src="http://forum.processing.org/processing-org.jpg" alt="" width="100" data-src="http://forum.processing.org/processing-org.jpg" /></td>
+<td width="100"><img class="" src="http://forum.processing.org/processing-org.jpg" alt="" width="55" height="55" data-src="http://forum.processing.org/processing-org.jpg" /></td>
 <td style="vertical-align: top;"><strong>Processing</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -97,7 +97,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://www.pawfal.org/fluxus/images/Screenshot-16.png" alt="" width="100" data-src="[http://www.pawfal.org/fluxus/images/Screenshot-16.png]" /></td>
+<td width="100"><img class="" src="http://www.pawfal.org/fluxus/images/Screenshot-16.png" alt="" width="71" height="44" data-src="[http://www.pawfal.org/fluxus/images/Screenshot-16.png]" /></td>
 <td style="vertical-align: top;"><strong> (fluxus)</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -109,7 +109,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://www.recmadrid.com/2012/vjplayer/images/share_fb.jpg" alt="" width="100" data-src="[http://www.recmadrid.com/2012/vjplayer/images/share_fb.jpg]" /></td>
+<td width="100"><img class="" src="http://www.recmadrid.com/2012/vjplayer/images/share_fb.jpg" alt="" width="75" height="75" data-src="[http://www.recmadrid.com/2012/vjplayer/images/share_fb.jpg]" /></td>
 <td style="vertical-align: top;"><strong>REC2012 :: </strong></td>
 </tr>
 <tr class="preview_footer">
@@ -133,7 +133,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://freej.org/ipernav-trans.png" alt="" width="100" data-src="[http://freej.org/ipernav-trans.png]" /></td>
+<td width="100"><img class="" src="http://freej.org/ipernav-trans.png" alt="" width="59" height="67" data-src="[http://freej.org/ipernav-trans.png]" /></td>
 <td style="vertical-align: top;"><strong>FreeJ</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -145,7 +145,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://opentzt.sourceforge.net/images/ss_intro_small.jpg" alt="" width="100" data-src="[http://opentzt.sourceforge.net/images/ss_intro_small.jpg,http://opentzt.sourceforge.net/images/1pix.gif,http://opentzt.sourceforge.net/images/1pix.gif,http://opentzt.sourceforge.net/images/sf.png]" /></td>
+<td width="100"><img class="" src="http://opentzt.sourceforge.net/images/ss_intro_small.jpg" alt="" width="58" height="45" data-src="[http://opentzt.sourceforge.net/images/ss_intro_small.jpg,http://opentzt.sourceforge.net/images/1pix.gif,http://opentzt.sourceforge.net/images/1pix.gif,http://opentzt.sourceforge.net/images/sf.png]" /></td>
 <td style="vertical-align: top;"> <strong>Opentzt</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -157,7 +157,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://www.no-carrier.com/img/8bp.png" alt="" width="100" data-src="[http://www.no-carrier.com/img/8bp.png,http://www.no-carrier.com/img/glitchnes/glitchnes2_001.png,http://www.no-carrier.com/img/glitchnes/glitchnes2_002.png,http://www.no-carrier.com/img/glitchnes/glitchnes2_003.png,http://www.no-carrier.com/img/glitchnes/glitchnes2_004.png,http://www.no-carrier.com/img/glitchnes/glitchnes_001.png]" /></td>
+<td width="100"><img class="" src="http://www.no-carrier.com/img/8bp.png" alt="" width="66" height="66" data-src="[http://www.no-carrier.com/img/8bp.png,http://www.no-carrier.com/img/glitchnes/glitchnes2_001.png,http://www.no-carrier.com/img/glitchnes/glitchnes2_002.png,http://www.no-carrier.com/img/glitchnes/glitchnes2_003.png,http://www.no-carrier.com/img/glitchnes/glitchnes2_004.png,http://www.no-carrier.com/img/glitchnes/glitchnes_001.png]" /></td>
 <td style="vertical-align: top;"><strong>glitchNES</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -169,7 +169,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://www.duration.cc/assets/images/duration_logo.png" alt="" width="100" data-src="[http://www.duration.cc/assets/images/duration_logo.png,http://www.duration.cc/assets/images/DurationText.png,http://www.duration.cc/assets/images/mac.png,http://www.duration.cc/assets/images/windows.png,http://www.duration.cc/assets/images/linux.png,http://www.duration.cc/assets/images/play.png]" /></td>
+<td width="100"><img class="" src="http://www.duration.cc/assets/images/duration_logo.png" alt="" width="59" height="59" data-src="[http://www.duration.cc/assets/images/duration_logo.png,http://www.duration.cc/assets/images/DurationText.png,http://www.duration.cc/assets/images/mac.png,http://www.duration.cc/assets/images/windows.png,http://www.duration.cc/assets/images/linux.png,http://www.duration.cc/assets/images/play.png]" /></td>
 <td style="vertical-align: top;"><strong>Duration Timeline</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -181,7 +181,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://www.iannix.org//images/photos/home4.jpg" alt="" width="100" data-src="[http://www.iannix.org//images/photos/home4.jpg,http://www.iannix.org//images/photos/home1.jpg,http://www.iannix.org//images/photos/home5.jpg,http://www.iannix.org//images/photos/home6.jpg,http://www.iannix.org//images/photos/home2.jpg,http://www.iannix.org//images/photos/home3.jpg]" /></td>
+<td width="100"><img class="" src="http://www.iannix.org//images/photos/home4.jpg" alt="" width="82" height="46" data-src="[http://www.iannix.org//images/photos/home4.jpg,http://www.iannix.org//images/photos/home1.jpg,http://www.iannix.org//images/photos/home5.jpg,http://www.iannix.org//images/photos/home6.jpg,http://www.iannix.org//images/photos/home2.jpg,http://www.iannix.org//images/photos/home3.jpg]" /></td>
 <td style="vertical-align: top;"><strong>IanniX</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -205,7 +205,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Natron_icon.svg/512px-Natron_icon.svg.png" alt="" width="100" data-src="[http://natron.inria.fr/wp-content/themes/tempera/images/socials/YouTube.png,http://natron.inria.fr/wp-content/themes/tempera/images/socials/Twitter.png,http://natron.inria.fr/files/2014/12/cropped-badeau2.jpg,https://natron.inria.fr/files/2014/12/natron-v9-01-150x150.png,https://natron.inria.fr/files/2014/12/DOWNLOAD-01.png,https://natron.inria.fr/files/2014/12/DRAW-01.png]" /></td>
+<td width="100"><img class="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Natron_icon.svg/512px-Natron_icon.svg.png" alt="" width="62" height="62" data-src="[http://natron.inria.fr/wp-content/themes/tempera/images/socials/YouTube.png,http://natron.inria.fr/wp-content/themes/tempera/images/socials/Twitter.png,http://natron.inria.fr/files/2014/12/cropped-badeau2.jpg,https://natron.inria.fr/files/2014/12/natron-v9-01-150x150.png,https://natron.inria.fr/files/2014/12/DOWNLOAD-01.png,https://natron.inria.fr/files/2014/12/DRAW-01.png]" /></td>
 <td style="vertical-align: top;"><strong>Natron </strong></td>
 </tr>
 <tr class="preview_footer">
@@ -218,7 +218,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png" alt="" width="100" data-src="[http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png,http://vvvv.org/sites/default/files/images/fonttest-DirectX%20Renderer_2009.09.27-03.39.01.jpg]" /></td>
+<td width="100"><img class="" src="http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png" alt="" width="81" height="47" data-src="[http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png,http://vvvv.org/sites/default/files/images/fonttest-DirectX%20Renderer_2009.09.27-03.39.01.jpg]" /></td>
 <td style="vertical-align: top; text-align: left;"><strong>vvvv </strong></td>
 </tr>
 <tr class="preview_footer">
@@ -231,7 +231,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png" alt="" width="100" data-src="[http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png,http://vvvv.org/sites/default/files/_root_MAIN-gui_2009.05.22-04.52.59.jpg]" /></td>
+<td width="100"><img class="" src="http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png" alt="" width="79" height="46" data-src="[http://vvvv.org/sites/all/themes/vvvv/css/img/logo.png,http://vvvv.org/sites/default/files/_root_MAIN-gui_2009.05.22-04.52.59.jpg]" /></td>
 <td style="vertical-align: top;"><strong>Svvvvitcher | vvvv</strong> <span style="display: block; margin-top: 8px;">
 </span></td>
 </tr>
@@ -244,7 +244,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://vuo.org/sites/all/themes/vuo_theme/logo.png" alt="" width="100" data-src="[http://vuo.org/sites/all/themes/vuo_theme/logo.png,http://vuo.org/sites/default/files/styles/thumbnail/public/frontpage_blockimages/clay.png?itok=7Cm7x01e,http://vuo.org/sites/default/files/styles/thumbnail/public/frontpage_blockimages/powerful.png?itok=1ADaa6i7,http://vuo.org/sites/default/files/styles/thumbnail/public/frontpage_blockimages/travis_tutorial.png?itok=YbOrx4Yf,http://vuo.org/sites/default/files/styles/user_spotlight/public/vuo_spotlight/Anthony%20hand%20controls.jpg?itok=70xsogT0,http://vuo.org/sites/default/files/styles/user_spotlight/public/Particl%201.jpg?itok=a6jap6A-]" /></td>
+<td width="100"><img class="" src="http://vuo.org/sites/all/themes/vuo_theme/logo.png" alt="" width="76" height="25" data-src="[http://vuo.org/sites/all/themes/vuo_theme/logo.png,http://vuo.org/sites/default/files/styles/thumbnail/public/frontpage_blockimages/clay.png?itok=7Cm7x01e,http://vuo.org/sites/default/files/styles/thumbnail/public/frontpage_blockimages/powerful.png?itok=1ADaa6i7,http://vuo.org/sites/default/files/styles/thumbnail/public/frontpage_blockimages/travis_tutorial.png?itok=YbOrx4Yf,http://vuo.org/sites/default/files/styles/user_spotlight/public/vuo_spotlight/Anthony%20hand%20controls.jpg?itok=70xsogT0,http://vuo.org/sites/default/files/styles/user_spotlight/public/Particl%201.jpg?itok=a6jap6A-]" /></td>
 <td style="vertical-align: top;"><strong>Vuo</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -256,7 +256,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="https://apps.ubuntu.com/site_media/icons/2015/07/vovoid-vsxulZ5iAH.png" alt="" width="100" data-src="[http://www.vsxu.com//data/baker/vsxu.com/app/lib/images/logo_top_left.png,http://www.vsxu.com//data/baker/vsxu.com/app/lib/images/divider.png,http://www.vsxu.com//data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_1.jpg,http://www.vsxu.com//data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_2.jpg,http://www.vsxu.com//data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_3.jpg,http://www.vsxu.com//data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_4.jpg]" /></td>
+<td width="100"><img class="" src="https://apps.ubuntu.com/site_media/icons/2015/07/vovoid-vsxulZ5iAH.png" alt="" width="73" height="73" data-src="[http://www.vsxu.com//data/baker/vsxu.com/app/lib/images/logo_top_left.png,http://www.vsxu.com//data/baker/vsxu.com/app/lib/images/divider.png,http://www.vsxu.com//data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_1.jpg,http://www.vsxu.com//data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_2.jpg,http://www.vsxu.com//data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_3.jpg,http://www.vsxu.com//data/baker/vsxu.com/app/modules/index/images/thumbs/screenshot_player_4.jpg]" /></td>
 <td style="vertical-align: top;"><strong>VSXu </strong></td>
 </tr>
 <tr class="preview_footer">
@@ -268,7 +268,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://a.fsdn.com/allura/p/webcamstudio/icon" alt="" width="100" data-src="[http://a.fsdn.com/allura/p/webcamstudio/icon]" /></td>
+<td width="100"><img class="" src="http://a.fsdn.com/allura/p/webcamstudio/icon" alt="" width="67" height="67" data-src="[http://a.fsdn.com/allura/p/webcamstudio/icon]" /></td>
 <td style="vertical-align: top;"><strong>WebcamStudio </strong></td>
 </tr>
 <tr class="preview_footer">
@@ -280,7 +280,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://www.solderlab.de//images/logo/logo_sl_bloom_4.png" alt="" width="100" data-src="[http://www.solderlab.de//images/logo/logo_sl_bloom_4.png,http://www.solderlab.de//images/logo/banner_sl_v3.jpg,http://www.solderlab.de//images/led-projects/menu_12x8RGBMatrix.jpg,http://www.solderlab.de//images/led-projects/menu_globe.jpg,http://www.solderlab.de//images/led-projects/replicas/menu_Falko.JPG,http://www.solderlab.de//images/led-projects/replicas/menu_Mitruel.png]" /></td>
+<td width="100"><img class="" src="http://www.solderlab.de//images/logo/logo_sl_bloom_4.png" alt="" width="64" height="64" data-src="[http://www.solderlab.de//images/logo/logo_sl_bloom_4.png,http://www.solderlab.de//images/logo/banner_sl_v3.jpg,http://www.solderlab.de//images/led-projects/menu_12x8RGBMatrix.jpg,http://www.solderlab.de//images/led-projects/menu_globe.jpg,http://www.solderlab.de//images/led-projects/replicas/menu_Falko.JPG,http://www.solderlab.de//images/led-projects/replicas/menu_Mitruel.png]" /></td>
 <td style="vertical-align: top;"><strong>Solderlab</strong>
 <span style="display: block; margin-top: 8px;">
 </span></td>
@@ -294,7 +294,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://a.fsdn.com/allura/p/qgifer/icon" alt="" width="100" data-src="[http://a.fsdn.com/allura/p/qgifer/icon]" /></td>
+<td width="100"><img class="" src="http://a.fsdn.com/allura/p/qgifer/icon" alt="" width="65" height="65" data-src="[http://a.fsdn.com/allura/p/qgifer/icon]" /></td>
 <td style="vertical-align: top;"><strong>QGifer </strong></td>
 </tr>
 <tr class="preview_footer">
@@ -306,7 +306,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://a.fsdn.com/allura/p/glmixer/icon" alt="" width="100" data-src="[http://a.fsdn.com/allura/p/glmixer/icon]" /></td>
+<td width="100"><img class="" src="http://a.fsdn.com/allura/p/glmixer/icon" alt="" width="84" height="84" data-src="[http://a.fsdn.com/allura/p/glmixer/icon]" /></td>
 <td style="vertical-align: top;"><strong>GLMixer </strong></td>
 </tr>
 <tr class="preview_footer">
@@ -317,7 +317,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img class="" src="http://freeframe.sourceforge.net/images/freeframelogo.gif" alt="" width="213" height="17" data-src="[http://freeframe.sourceforge.net/images/freeframelogo.gif,http://freeframe.sourceforge.net/images/opengl.png,http://freeframe.sourceforge.net/images/win.jpg,http://freeframe.sourceforge.net/images/win.jpg,http://freeframe.sourceforge.net/images/apple.jpg,http://freeframe.sourceforge.net/images/win.jpg]" /></td>
+<td width="100"><img class="" src="http://freeframe.sourceforge.net/images/freeframelogo.gif" alt="" width="175" height="14" data-src="[http://freeframe.sourceforge.net/images/freeframelogo.gif,http://freeframe.sourceforge.net/images/opengl.png,http://freeframe.sourceforge.net/images/win.jpg,http://freeframe.sourceforge.net/images/win.jpg,http://freeframe.sourceforge.net/images/apple.jpg,http://freeframe.sourceforge.net/images/win.jpg]" /></td>
 <td style="vertical-align: top;"><strong>:::FreeFrame:::</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -329,7 +329,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://opencv.org/wp-content/themes/opencv/images/logo.png" alt="" width="100" data-src="[http://opencv.org/wp-content/themes/opencv/images/logo.png,https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png,http://opencv.alekcac.webfactional.com/wp-content/uploads/2012/06/cvpr_banner.png,http://opencv.org/wp-content/themes/opencv/images/more.png,http://opencv.org/wp-content/themes/opencv/scripts/timthumb.php?src=/wp-content/files_mf/1380825333hdr.gif&amp;w=136&amp;h=136&amp;zc=1,http://opencv.org/wp-content/files_mf/1380825333hdr.gif]" /></td>
+<td width="100"><img class="" src="http://opencv.org/wp-content/themes/opencv/images/logo.png" alt="" width="68" height="82" data-src="[http://opencv.org/wp-content/themes/opencv/images/logo.png,https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png,http://opencv.alekcac.webfactional.com/wp-content/uploads/2012/06/cvpr_banner.png,http://opencv.org/wp-content/themes/opencv/images/more.png,http://opencv.org/wp-content/themes/opencv/scripts/timthumb.php?src=/wp-content/files_mf/1380825333hdr.gif&amp;w=136&amp;h=136&amp;zc=1,http://opencv.org/wp-content/files_mf/1380825333hdr.gif]" /></td>
 <td style="vertical-align: top;"><strong>OpenCV | OpenCV</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -365,7 +365,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/GIMP_Icon.png" alt="" width="100" data-src="[http://api.flattr.com/button/flattr-badge-large.png,http://www.gimp.org//donating/bitcoin-button.png,http://www.gimp.org//images/frontsplash28.png,http://www.gimp.org//images/news-icons/release-stable.png,http://www.gimp.org//images/news-icons/wilber-eeek.png,http://www.gimp.org//images/news-icons/wilber-eeek.png]" /></td>
+<td width="100"><img class="" src="https://upload.wikimedia.org/wikipedia/commons/5/55/GIMP_Icon.png" alt="" width="76" height="70" data-src="[http://api.flattr.com/button/flattr-badge-large.png,http://www.gimp.org//donating/bitcoin-button.png,http://www.gimp.org//images/frontsplash28.png,http://www.gimp.org//images/news-icons/release-stable.png,http://www.gimp.org//images/news-icons/wilber-eeek.png,http://www.gimp.org//images/news-icons/wilber-eeek.png]" /></td>
 <td style="vertical-align: top;"><strong>GIMP </strong></td>
 </tr>
 <tr class="preview_footer">
@@ -377,7 +377,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img class="aligncenter" src="http://www.luzstudio.net/_upload/s_20150128122425m48p7g_FascinoscopeClocherUQAMphotoCindyBoyce_Quartierdesspectacles.jpg" alt="" width="68" height="101" data-src="[http://www.luzstudio.net/_upload/s_20150128122425m48p7g_FascinoscopeClocherUQAMphotoCindyBoyce_Quartierdesspectacles.jpg,http://www.luzstudio.net/_upload/s_20140404122827i1jycn_AAA_5490.jpg,http://www.luzstudio.net/_upload/s_20140710162750hfezqh_fosterthepeople_0501fea006.JPG,http://www.luzstudio.net/_upload/s_20140527110315ldrp51_GCiampini_IndieAwards_Edited-1825.jpg,http://www.luzstudio.net/_upload/s_20140404125725v1rpsl_DSC_2240.jpg,http://www.luzstudio.net/_upload/s_20141003132440zgscex_DSC_6161.jpg]" /></td>
+<td width="100"><img class="aligncenter" src="http://www.luzstudio.net/_upload/s_20150128122425m48p7g_FascinoscopeClocherUQAMphotoCindyBoyce_Quartierdesspectacles.jpg" alt="" width="45" height="67" data-src="[http://www.luzstudio.net/_upload/s_20150128122425m48p7g_FascinoscopeClocherUQAMphotoCindyBoyce_Quartierdesspectacles.jpg,http://www.luzstudio.net/_upload/s_20140404122827i1jycn_AAA_5490.jpg,http://www.luzstudio.net/_upload/s_20140710162750hfezqh_fosterthepeople_0501fea006.JPG,http://www.luzstudio.net/_upload/s_20140527110315ldrp51_GCiampini_IndieAwards_Edited-1825.jpg,http://www.luzstudio.net/_upload/s_20140404125725v1rpsl_DSC_2240.jpg,http://www.luzstudio.net/_upload/s_20141003132440zgscex_DSC_6161.jpg]" /></td>
 <td style="vertical-align: top;"><strong>Lüz Studio</strong> <span style="display: block; margin-top: 8px;">
 </span></td>
 </tr>
@@ -390,7 +390,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://whorld.org./images/whorld-icon-32x32.gif" alt="" width="100" data-src="[http://whorld.org./images/whorld-icon-32x32.gif,http://whorld.org./images/project-support.jpg,http://whorld.org./images/sflogo.png,http://whorld.orgimages/frontpage.jpg,http://whorld.orgimages/smallwhorlddance.jpg,http://whorld.orgimages/equipment-staff-sm.jpg]" /></td>
+<td width="100"><img class="" src="http://whorld.org./images/whorld-icon-32x32.gif" alt="" width="80" height="80" data-src="[http://whorld.org./images/whorld-icon-32x32.gif,http://whorld.org./images/project-support.jpg,http://whorld.org./images/sflogo.png,http://whorld.orgimages/frontpage.jpg,http://whorld.orgimages/smallwhorlddance.jpg,http://whorld.orgimages/equipment-staff-sm.jpg]" /></td>
 <td style="vertical-align: top;"><strong>Whorld - Home</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -402,7 +402,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img class="" src="http://www.praxislive.org/img/praxislive.png" alt="" width="168" height="42" data-src="[http://www.praxislive.org/img/praxislive.png]" /></td>
+<td width="100"><img class="" src="http://www.praxislive.org/img/praxislive.png" alt="" width="124" height="31" data-src="[http://www.praxislive.org/img/praxislive.png]" /></td>
 <td style="vertical-align: top;"><strong>Praxis LIVE</strong> <span style="display: block; margin-top: 8px;">
 </span></td>
 </tr>
@@ -415,7 +415,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img class="" src="http://www.gephex.org/images/logo.png" alt="" width="204" height="47" data-src="[http://www.gephex.org/images/logo.png]" /></td>
+<td width="100"><img class="" src="http://www.gephex.org/images/logo.png" alt="" width="126" height="29" data-src="[http://www.gephex.org/images/logo.png]" /></td>
 <td style="vertical-align: top;"><strong>Gephex - video jockey software</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -427,7 +427,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://loveguerrillamarketing.com/wp-content/uploads/2015/08/lives-video-editor-icon.png" alt="" width="100" data-src="[http://loveguerrillamarketing.com/wp-content/uploads/2015/08/lives-video-editor-icon.png]" /></td>
+<td width="100"><img class="" src="http://loveguerrillamarketing.com/wp-content/uploads/2015/08/lives-video-editor-icon.png" alt="" width="82" height="82" data-src="[http://loveguerrillamarketing.com/wp-content/uploads/2015/08/lives-video-editor-icon.png]" /></td>
 <td style="vertical-align: top;"><strong>LiVES Video </strong></td>
 </tr>
 <tr class="preview_footer">
@@ -440,7 +440,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://animata.kibu.hu/img/thumb_001.jpg" alt="" width="100" data-src="[http://animata.kibu.hu/img/thumb_001.jpg,http://animata.kibu.hu/img/thumb_002.jpg,http://animata.kibu.hu/img/thumb_003.jpg]" /></td>
+<td width="100"><img class="" src="http://animata.kibu.hu/img/thumb_001.jpg" alt="" width="89" height="55" data-src="[http://animata.kibu.hu/img/thumb_001.jpg,http://animata.kibu.hu/img/thumb_002.jpg,http://animata.kibu.hu/img/thumb_003.jpg]" /></td>
 <td style="vertical-align: top; text-align: left;"><strong>Animata</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -453,7 +453,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img class="" src="http://www.makehuman.org/images/logo.png" alt="" width="212" height="57" data-src="[http://www.makehuman.org/images/logo.png,http://www.makehuman.org/images/facebook.png,http://www.makehuman.org/images/twitter.png,http://www.makehuman.org/images/youtube.png,http://www.makehuman.org/images/irc.png,http://www.makehuman.org/images/vimeo.png]" /></td>
+<td width="100"><img class="" src="http://www.makehuman.org/images/logo.png" alt="" width="152" height="41" data-src="[http://www.makehuman.org/images/logo.png,http://www.makehuman.org/images/facebook.png,http://www.makehuman.org/images/twitter.png,http://www.makehuman.org/images/youtube.png,http://www.makehuman.org/images/irc.png,http://www.makehuman.org/images/vimeo.png]" /></td>
 <td style="vertical-align: top;"><strong>MakeHuman</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -466,7 +466,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://loveguerrillamarketing.com/wp-content/uploads/2015/08/339px-Voria_Logo.svg_.png" alt="" width="100" data-src="[http://loveguerrillamarketing.com/wp-content/uploads/2015/08/339px-Voria_Logo.svg_.png]" /></td>
+<td width="100"><img class="" src="http://loveguerrillamarketing.com/wp-content/uploads/2015/08/339px-Voria_Logo.svg_.png" alt="" width="53" height="75" data-src="[http://loveguerrillamarketing.com/wp-content/uploads/2015/08/339px-Voria_Logo.svg_.png]" /></td>
 <td style="vertical-align: top;"><strong>Synfig Studio
 </strong></td>
 </tr>
@@ -480,7 +480,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://pencil.evolus.vn//styling/images/logo-shadow.png" alt="" width="100" data-src="[http://pencil.evolus.vn//styling/images/logo-shadow.png,http://pencil.evolus.vn//images/home-ss.jpg]" /></td>
+<td width="100"><img class="" src="http://pencil.evolus.vn//styling/images/logo-shadow.png" alt="" width="66" height="66" data-src="[http://pencil.evolus.vn//styling/images/logo-shadow.png,http://pencil.evolus.vn//images/home-ss.jpg]" /></td>
 <td style="vertical-align: top;"><strong>Pencil</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -493,7 +493,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://www.geeks3d.com/glslhacker/./images/glsl_hacker_logo_20141112_03.jpg" alt="" width="100" data-src="[http://www.geeks3d.com/glslhacker/./images/glsl_hacker_logo_20141112_03.jpg,http://www.geeks3d.com/glslhacker/images/glsl_hacker_demo01.jpg,http://www.geeks3d.com/glslhacker/images/glsl_hacker_demo02.jpg,http://www.geeks3d.com/glslhacker/images/glsl_hacker_demo03.jpg,http://www.geeks3d.com/glslhacker/images/glsl_hacker_demo04.jpg]" /></td>
+<td width="100"><img class="" src="http://www.geeks3d.com/glslhacker/./images/glsl_hacker_logo_20141112_03.jpg" alt="" width="65" height="49" data-src="[http://www.geeks3d.com/glslhacker/./images/glsl_hacker_logo_20141112_03.jpg,http://www.geeks3d.com/glslhacker/images/glsl_hacker_demo01.jpg,http://www.geeks3d.com/glslhacker/images/glsl_hacker_demo02.jpg,http://www.geeks3d.com/glslhacker/images/glsl_hacker_demo03.jpg,http://www.geeks3d.com/glslhacker/images/glsl_hacker_demo04.jpg]" /></td>
 <td style="vertical-align: top;"><strong>GLSL Hacker</strong> <span style="display: block; margin-top: 8px;">
 </span></td>
 </tr>
@@ -507,7 +507,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img src="http://vdome.us/assets/images/icons/d-github.png" alt="" width="100" data-src="[http://vdome.us/assets/images/icons/d-github.png]" /></td>
+<td width="100"><img class="" src="http://vdome.us/assets/images/icons/d-github.png" alt="" width="79" height="27" data-src="[http://vdome.us/assets/images/icons/d-github.png]" /></td>
 <td style="vertical-align: top;"><strong>VDOME Software</strong></td>
 </tr>
 <tr class="preview_footer">
