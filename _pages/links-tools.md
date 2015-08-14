@@ -310,7 +310,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img class="" src="http://vjunion.net/uploads/default/166/76b68a9e2fba3689.png" alt="" width="196" height="53" data-src="[http://vjunion.net/uploads/default/166/76b68a9e2fba3689.png]" /></td>
+<td width="100"><img class="" src="http://vjunion.net/uploads/default/166/76b68a9e2fba3689.png" alt="" width="122" height="33" data-src="[http://vjunion.net/uploads/default/166/76b68a9e2fba3689.png]" /></td>
 <td style="vertical-align: top;"><strong>VJ Union- Shader Maker</strong></td>
 </tr>
 <tr class="preview_footer">
@@ -321,7 +321,7 @@ Here are some links for open source tools for video &amp; image processing
 <table id="at_preview">
 <tbody>
 <tr>
-<td width="100"><img class="" src="http://meshwarpserver.org/wp-content/uploads/cropped-logo.png" alt="" width="258" height="49" data-src="[http://meshwarpserver.org/wp-content/uploads/cropped-logo.png,http://meshwarpserver.org/wp-content/plugins/facebook-button-plugin/images/standard-facebook-ico.png]" /></td>
+<td width="100"><img class="" src="http://meshwarpserver.org/wp-content/uploads/cropped-logo.png" alt="" width="147" height="28" data-src="[http://meshwarpserver.org/wp-content/uploads/cropped-logo.png,http://meshwarpserver.org/wp-content/plugins/facebook-button-plugin/images/standard-facebook-ico.png]" /></td>
 <td style="vertical-align: top;"><strong> MeshWarpServer</strong></td>
 </tr>
 <tr class="preview_footer">
