@@ -30,6 +30,13 @@ url-httpwww-openframeworks-cc:
   - http://www.openframeworks.cc/
 url-httpwww-gephex-org:
   - http://www.gephex.org/
+url-httpcodedoodl-es:
+  - http://codedoodl.es/
+img-httpcodedoodl-es:
+  - >
+    http://assets.codedoodl.es/static/img/share_thumbnail.jpg
+alt-httpcodedoodl-es:
+  - \ creative code sketches
 ---
 [mbYTPlayer url="https://youtu.be/HPph35tdMP8" opacity="1" quality="highres" ratio="auto" isinline="false" showcontrols="false" realfullscreen="true" printurl="true" autoplay="true" mute="true" loop="true" addraster="false" stopmovieonblur="false" gaTrack="false"]
 
@@ -37,7 +44,20 @@ url-httpwww-gephex-org:
 
 Here are some links for open source tools for video &amp; image processing
 
-[link-preview url="http://codedoodl.es/" forceshot="true"]
+&nbsp;
+<table id="at_preview">
+<tbody>
+<tr>
+<td width="100"><img src="http://assets.codedoodl.es/static/img/share_thumbnail.jpg" alt="" width="100" data-src="[http://assets.codedoodl.es/static/img/share_thumbnail.jpg]" /></td>
+<td style="vertical-align: top;"><strong>codedoodl.es \\ creative code sketches</strong> <span style="display: block; margin-top: 8px;">A curated showcase of creative coding sketches</span></td>
+</tr>
+<tr class="preview_footer">
+<td colspan="2">Source: <a href="http://codedoodl.es/">codedoodl.es/ </a></td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<div style="text-align: center;"></div>
 <table id="at_preview" style="height: 99px;" width="260">
 <tbody>
 <tr>
