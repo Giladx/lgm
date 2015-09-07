@@ -56,7 +56,6 @@ Here are some links for open source tools for video &amp; image processing
 </tr>
 </tbody>
 </table>
-&nbsp;
 <div style="text-align: center;"></div>
 <table id="at_preview" style="height: 99px;" width="260">
 <tbody>
