@@ -37,7 +37,7 @@ url-httpwww-gephex-org:
 
 Here are some links for open source tools for video &amp; image processing
 
-&nbsp;
+[link-preview url="http://codedoodl.es/" forceshot="true"]
 <table id="at_preview" style="height: 99px;" width="260">
 <tbody>
 <tr>
